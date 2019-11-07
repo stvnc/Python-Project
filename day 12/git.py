@@ -6,3 +6,5 @@ class X:
 
 Andi = X()
 print(Andi.name)
+print()
+print()
