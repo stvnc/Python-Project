@@ -26,6 +26,8 @@ def findKPK(param, param2):
         greater+=1
     return kpk
 
-print(findKPK(100, 1750))
-print(findFpb(100, 120))
-print(findFpbEuclidean(100, 120))
+userInput1 = int(input('Masukkan angka pertama: '))
+userInput2 = int(input('Masukkan angka kedua: '))
+print(findKPK(userInput1, userInput2))
+print(findFpb(userInput1, userInput2))
+print(findFpbEuclidean(userInput1, userInput2))
