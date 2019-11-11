@@ -17,3 +17,14 @@ objY = Y('Budi', 23, 'Jakarta')
 print(objY.pensiun())
 print(objY.kota)
 
+class Fibo:
+    def fibo(self, urut):
+        if urut < 2:
+            return urut
+        else:
+            return self.fibo(urut-1) + self.fibo(urut-2)
+
+Fibo = Fibo()
+print(Fibo.fibo(11))
+
+
