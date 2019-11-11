@@ -32,6 +32,8 @@ def romanDecipher(param):
     newList = list(param)
     count = 0
     value = 0
+    if len(param) == 1:
+        value += romanDict.get(newList[count])
     while count < len(param)-1:
         if newList[count] in romanDict:
             if romanDict.get(newList[count]) > romanDict.get(newList[count+1]):
@@ -41,9 +43,10 @@ def romanDecipher(param):
             else:
                 value += romanDict.get(newList[count])
             count += 1
-            if count == len(param)-1:
+            if count == len(param)-1 :
                 value += romanDict.get(newList[count])
+            
     return value
 
-print(romanDecipher(str(input('Masukkan numeral Roman yang ingin dijadikan angka: '))))
+print(romanDecipher(str(input('Masukkan numeral Roman yang ingin dijadikan angka: ')).upper()))
         
