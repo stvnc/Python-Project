@@ -18,3 +18,9 @@ class x():
     def __init__(self, name):
         self.name = name
 ```
+
+No. | Nama
+- | -
+1 | Andi
+2 | Budi
+3 | Caca
