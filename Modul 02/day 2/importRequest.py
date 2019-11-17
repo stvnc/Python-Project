@@ -35,9 +35,9 @@ for i in range(len(combination)):
     playerList.append(curDict)
 
 #create csv
-with open(f'{userInput}.csv',"w",newline="") as x:
+with open(f'{userInput}.csv', "w", newline = "") as x:
     column = header
-    a = csv.DictWriter(x, fieldnames=column, delimiter=",")
+    a = csv.DictWriter(x, fieldnames = column, delimiter = ",")
     a.writeheader()
     a.writerows(playerList)
 
