@@ -5,7 +5,6 @@ url = f'https://kurs.web.id/api/v1/{userInput}'
 data = requests.get(url)
 rate = data.json()
 
-
 bankList = ['bca', 'bi', 'bjb', 'bni', 'bri', 'btn', 'bukopin', 'cimb', 'commonwealth', 'danamon', 'hsbc', 'jtrust', 'mandiri', 'mayapada', 'maybank',
             'mega', 'muamalat', 'ocbc', 'panin', 'permata', 'sinarmas', 'uob', 'wooribersaudara']
 

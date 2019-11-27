@@ -26,7 +26,6 @@ for i in data.find_all('img'):
 
 for i in data.find_all('center'):
     if count % 11 == 0 and count != 0:
-        # print(digiTempList)
         digiAttributeList.append(digiTempList)
         digiTempList = []
         digiTempList.append(i.text)
@@ -40,7 +39,7 @@ for i in range(1, int(count/11)+1):
 
 for i in range(len(digiNameList)):
     tempList = []
-    tempList.append(int(i))
+    tempList.append(int(i)+1)
     tempList.append(digiNameList[i])
     for j in range(11):
         tempList.append(digiAttributeList[i][j])

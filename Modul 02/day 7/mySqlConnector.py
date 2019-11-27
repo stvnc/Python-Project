@@ -5,10 +5,11 @@ db = mysql.connector.connect(
     port =  3306,
     user = 'root',
     passwd = 'vincent28',
-    auth_plugin = 'mysql_native_password',
-    database = 'day7'
+    auth_plugin = 'mysql_native_password'
+    # database = 'digimon'
 )
 print(db)
+
 
 c = db.cursor()
 sql = 'insert into karyawan(nama, gaji) values (%s, %s)'
