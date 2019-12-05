@@ -17,7 +17,7 @@ oneData = {'nama':'Deni', 'usia':18, 'kota':'Kediri'}
 
 myData = [
     {'nama':'Deni', 'usia':18, 'kota':'Kediri'},
-    {'nama':'Egin', 'usia':22, 'kota':'Jakarta'},
+    {'nama':'Egin', 'usia':22, 'kota':'Jaka n rta'},
     {'nama':'Ferry', 'usia':22, 'kota':'Jakarta'}
 ]
 
