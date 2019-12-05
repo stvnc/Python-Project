@@ -1,1 +1,0 @@
-inputUser = input('Masukkan nama: ')
