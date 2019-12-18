@@ -19,7 +19,7 @@ for i in data.find_all('th'):
     templateList.append(i.text)
 
 for i in data.find_all('a', style='font-weight: bold;'):
-    digiNameList.append(i.text)\
+    digiNameList.append(i.text)
 
 for i in data.find_all('img'):
     digiImageList.append(i.get('src'))
