@@ -9,6 +9,7 @@ digiNameList = []
 digiImageList = []
 digiAttributeList = []
 digiTempList = []
+tempImageList = []
 templateList = []
 count = 0
 numList = []
@@ -18,11 +19,17 @@ fullList = []
 for i in data.find_all('th'):
     templateList.append(i.text)
 
+templateList[0] = 'No'
+templateList.append('Image')
+
 for i in data.find_all('a', style='font-weight: bold;'):
     digiNameList.append(i.text)
 
 for i in data.find_all('img'):
-    digiImageList.append(i.get('src'))
+    tempImageList.append(i.get('src'))
+
+for i in range(2, len(tempImageList)-2):
+    digiImageList.append(tempImageList[i])
 
 for i in data.find_all('center'):
     if count % 11 == 0 and count != 0:
@@ -43,12 +50,13 @@ for i in range(len(digiNameList)):
     tempList.append(digiNameList[i])
     for j in range(11):
         tempList.append(digiAttributeList[i][j])
-    print(tempList)
+    tempList.append(digiImageList[i])
     digimon.append(tempList)
 
 for i in range(len(digimon)):
     temp = dict(zip(templateList, digimon[i]))
     fullList.append(temp)
+
 
 with open('digimonDb.json', 'w') as outfile:
     json.dump(fullList, outfile)
@@ -60,4 +68,5 @@ with open("digimonDb.csv", "w", newline="") as x:
     csvFile.writerows(fullList)
 
 
+    
     

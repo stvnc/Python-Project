@@ -61,8 +61,6 @@ def getDataWID(no):
     }, value))
     return jsonify(value)
 
-
-
 if __name__ == '__main__':
     app.run(debug = True, port = 2000)
 

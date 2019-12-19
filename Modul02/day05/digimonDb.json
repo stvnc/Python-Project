@@ -1,6 +1,6 @@
 [
     {
-        "#": 1,
+        "No": 1,
         "Digimon": "Kuramon",
         "Stage": "Baby",
         "Type": "Free",
@@ -12,10 +12,11 @@
         "Atk": "79",
         "Def": "69",
         "Int": "68",
-        "Spd": "95"
+        "Spd": "95",
+        "Image": "http://digidb.io/images/dot/dot629.png"
     },
     {
-        "#": 2,
+        "No": 2,
         "Digimon": "Pabumon",
         "Stage": "Baby",
         "Type": "Free",
@@ -27,10 +28,11 @@
         "Atk": "76",
         "Def": "76",
         "Int": "69",
-        "Spd": "68"
+        "Spd": "68",
+        "Image": "http://digidb.io/images/dot/dot387.png"
     },
     {
-        "#": 3,
+        "No": 3,
         "Digimon": "Punimon",
         "Stage": "Baby",
         "Type": "Free",
@@ -42,10 +44,11 @@
         "Atk": "97",
         "Def": "87",
         "Int": "50",
-        "Spd": "75"
+        "Spd": "75",
+        "Image": "http://digidb.io/images/dot/dot437.png"
     },
     {
-        "#": 4,
+        "No": 4,
         "Digimon": "Botamon",
         "Stage": "Baby",
         "Type": "Free",
@@ -57,10 +60,11 @@
         "Atk": "77",
         "Def": "95",
         "Int": "76",
-        "Spd": "61"
+        "Spd": "61",
+        "Image": "http://digidb.io/images/dot/dot317.png"
     },
     {
-        "#": 5,
+        "No": 5,
         "Digimon": "Poyomon",
         "Stage": "Baby",
         "Type": "Free",
@@ -72,10 +76,11 @@
         "Atk": "54",
         "Def": "59",
         "Int": "95",
-        "Spd": "86"
+        "Spd": "86",
+        "Image": "http://digidb.io/images/dot/dot320.png"
     },
     {
-        "#": 6,
+        "No": 6,
         "Digimon": "Arcadiamon In-Tr.",
         "Stage": "In-Training",
         "Type": "Free",
@@ -87,10 +92,11 @@
         "Atk": "86",
         "Def": "59",
         "Int": "81",
-        "Spd": "93"
+        "Spd": "93",
+        "Image": "http://digidb.io/images/dot/dot062.png"
     },
     {
-        "#": 7,
+        "No": 7,
         "Digimon": "Koromon",
         "Stage": "In-Training",
         "Type": "Free",
@@ -102,10 +108,11 @@
         "Atk": "109",
         "Def": "93",
         "Int": "52",
-        "Spd": "76"
+        "Spd": "76",
+        "Image": "http://digidb.io/images/dot/dot322.png"
     },
     {
-        "#": 8,
+        "No": 8,
         "Digimon": "Tanemon",
         "Stage": "In-Training",
         "Type": "Free",
@@ -117,10 +124,11 @@
         "Atk": "85",
         "Def": "82",
         "Int": "73",
-        "Spd": "69"
+        "Spd": "69",
+        "Image": "http://digidb.io/images/dot/dot512.png"
     },
     {
-        "#": 9,
+        "No": 9,
         "Digimon": "Tsunomon",
         "Stage": "In-Training",
         "Type": "Free",
@@ -132,10 +140,11 @@
         "Atk": "107",
         "Def": "92",
         "Int": "54",
-        "Spd": "76"
+        "Spd": "76",
+        "Image": "http://digidb.io/images/dot/dot438.png"
     },
     {
-        "#": 10,
+        "No": 10,
         "Digimon": "Tsumemon",
         "Stage": "In-Training",
         "Type": "Free",
@@ -147,10 +156,11 @@
         "Atk": "108",
         "Def": "64",
         "Int": "54",
-        "Spd": "93"
+        "Spd": "93",
+        "Image": "http://digidb.io/images/dot/dot631.png"
     },
     {
-        "#": 11,
+        "No": 11,
         "Digimon": "Tokomon",
         "Stage": "In-Training",
         "Type": "Free",
@@ -162,10 +172,11 @@
         "Atk": "76",
         "Def": "74",
         "Int": "74",
-        "Spd": "103"
+        "Spd": "103",
+        "Image": "http://digidb.io/images/dot/dot325.png"
     },
     {
-        "#": 12,
+        "No": 12,
         "Digimon": "Nyaromon",
         "Stage": "In-Training",
         "Type": "Free",
@@ -177,10 +188,11 @@
         "Atk": "54",
         "Def": "64",
         "Int": "103",
-        "Spd": "94"
+        "Spd": "94",
+        "Image": "http://digidb.io/images/dot/dot515.png"
     },
     {
-        "#": 13,
+        "No": 13,
         "Digimon": "Pagumon",
         "Stage": "In-Training",
         "Type": "Free",
@@ -192,10 +204,11 @@
         "Atk": "60",
         "Def": "63",
         "Int": "102",
-        "Spd": "93"
+        "Spd": "93",
+        "Image": "http://digidb.io/images/dot/dot567.png"
     },
     {
-        "#": 14,
+        "No": 14,
         "Digimon": "Yokomon",
         "Stage": "In-Training",
         "Type": "Free",
@@ -207,10 +220,11 @@
         "Atk": "82",
         "Def": "82",
         "Int": "75",
-        "Spd": "69"
+        "Spd": "69",
+        "Image": "http://digidb.io/images/dot/dot510.png"
     },
     {
-        "#": 15,
+        "No": 15,
         "Digimon": "Bukamon",
         "Stage": "In-Training",
         "Type": "Free",
@@ -222,10 +236,11 @@
         "Atk": "54",
         "Def": "74",
         "Int": "103",
-        "Spd": "69"
+        "Spd": "69",
+        "Image": "http://digidb.io/images/dot/dot514.png"
     },
     {
-        "#": 16,
+        "No": 16,
         "Digimon": "Motimon",
         "Stage": "In-Training",
         "Type": "Free",
@@ -237,10 +252,11 @@
         "Atk": "82",
         "Def": "81",
         "Int": "78",
-        "Spd": "69"
+        "Spd": "69",
+        "Image": "http://digidb.io/images/dot/dot388.png"
     },
     {
-        "#": 17,
+        "No": 17,
         "Digimon": "Wanyamon",
         "Stage": "In-Training",
         "Type": "Free",
@@ -252,10 +268,11 @@
         "Atk": "79",
         "Def": "75",
         "Int": "75",
-        "Spd": "82"
+        "Spd": "82",
+        "Image": "http://digidb.io/images/dot/dot321.png"
     },
     {
-        "#": 18,
+        "No": 18,
         "Digimon": "Agumon",
         "Stage": "Rookie",
         "Type": "Vaccine",
@@ -267,10 +284,11 @@
         "Atk": "131",
         "Def": "103",
         "Int": "54",
-        "Spd": "86"
+        "Spd": "86",
+        "Image": "http://digidb.io/images/dot/dot050.png"
     },
     {
-        "#": 19,
+        "No": 19,
         "Digimon": "Agumon (Blk)",
         "Stage": "Rookie",
         "Type": "Virus",
@@ -282,10 +300,11 @@
         "Atk": "124",
         "Def": "108",
         "Int": "56",
-        "Spd": "85"
+        "Spd": "85",
+        "Image": "http://digidb.io/images/dot/dot143.png"
     },
     {
-        "#": 20,
+        "No": 20,
         "Digimon": "Arcadiamon Rookie",
         "Stage": "Rookie",
         "Type": "Virus",
@@ -297,10 +316,11 @@
         "Atk": "105",
         "Def": "79",
         "Int": "85",
-        "Spd": "86"
+        "Spd": "86",
+        "Image": "http://digidb.io/images/dot/dot063.png"
     },
     {
-        "#": 21,
+        "No": 21,
         "Digimon": "Armadillomon",
         "Stage": "Rookie",
         "Type": "Free",
@@ -312,10 +332,11 @@
         "Atk": "67",
         "Def": "111",
         "Int": "65",
-        "Spd": "72"
+        "Spd": "72",
+        "Image": "http://digidb.io/images/dot/dot707.png"
     },
     {
-        "#": 22,
+        "No": 22,
         "Digimon": "Impmon",
         "Stage": "Rookie",
         "Type": "Virus",
@@ -327,10 +348,11 @@
         "Atk": "83",
         "Def": "65",
         "Int": "114",
-        "Spd": "102"
+        "Spd": "102",
+        "Image": "http://digidb.io/images/dot/dot081.png"
     },
     {
-        "#": 23,
+        "No": 23,
         "Digimon": "Elecmon",
         "Stage": "Rookie",
         "Type": "Data",
@@ -342,10 +364,11 @@
         "Atk": "82",
         "Def": "79",
         "Int": "79",
-        "Spd": "90"
+        "Spd": "90",
+        "Image": "http://digidb.io/images/dot/dot564.png"
     },
     {
-        "#": 24,
+        "No": 24,
         "Digimon": "Otamamon",
         "Stage": "Rookie",
         "Type": "Virus",
@@ -357,10 +380,11 @@
         "Atk": "52",
         "Def": "75",
         "Int": "113",
-        "Spd": "78"
+        "Spd": "78",
+        "Image": "http://digidb.io/images/dot/dot582.png"
     },
     {
-        "#": 25,
+        "No": 25,
         "Digimon": "Gaomon",
         "Stage": "Rookie",
         "Type": "Data",
@@ -372,10 +396,11 @@
         "Atk": "118",
         "Def": "74",
         "Int": "66",
-        "Spd": "101"
+        "Spd": "101",
+        "Image": "http://digidb.io/images/dot/dot055.png"
     },
     {
-        "#": 26,
+        "No": 26,
         "Digimon": "Gazimon",
         "Stage": "Rookie",
         "Type": "Virus",
@@ -387,10 +412,11 @@
         "Atk": "123",
         "Def": "64",
         "Int": "59",
-        "Spd": "102"
+        "Spd": "102",
+        "Image": "http://digidb.io/images/dot/dot569.png"
     },
     {
-        "#": 27,
+        "No": 27,
         "Digimon": "Gabumon",
         "Stage": "Rookie",
         "Type": "Data",
@@ -402,10 +428,11 @@
         "Atk": "94",
         "Def": "81",
         "Int": "79",
-        "Spd": "91"
+        "Spd": "91",
+        "Image": "http://digidb.io/images/dot/dot151.png"
     },
     {
-        "#": 28,
+        "No": 28,
         "Digimon": "Gabumon (Blk)",
         "Stage": "Rookie",
         "Type": "Virus",
@@ -417,10 +444,11 @@
         "Atk": "99",
         "Def": "89",
         "Int": "74",
-        "Spd": "91"
+        "Spd": "91",
+        "Image": "http://digidb.io/images/dot/dot713.png"
     },
     {
-        "#": 29,
+        "No": 29,
         "Digimon": "Guilmon",
         "Stage": "Rookie",
         "Type": "Virus",
@@ -432,10 +460,11 @@
         "Atk": "133",
         "Def": "74",
         "Int": "54",
-        "Spd": "101"
+        "Spd": "101",
+        "Image": "http://digidb.io/images/dot/dot090.png"
     },
     {
-        "#": 30,
+        "No": 30,
         "Digimon": "Kudamon",
         "Stage": "Rookie",
         "Type": "Vaccine",
@@ -447,10 +476,11 @@
         "Atk": "53",
         "Def": "74",
         "Int": "117",
-        "Spd": "105"
+        "Spd": "105",
+        "Image": "http://digidb.io/images/dot/dot053.png"
     },
     {
-        "#": 31,
+        "No": 31,
         "Digimon": "Keramon",
         "Stage": "Rookie",
         "Type": "Free",
@@ -462,10 +492,11 @@
         "Atk": "123",
         "Def": "69",
         "Int": "61",
-        "Spd": "101"
+        "Spd": "101",
+        "Image": "http://digidb.io/images/dot/dot626.png"
     },
     {
-        "#": 32,
+        "No": 32,
         "Digimon": "Gotsumon",
         "Stage": "Rookie",
         "Type": "Data",
@@ -477,10 +508,11 @@
         "Atk": "93",
         "Def": "118",
         "Int": "90",
-        "Spd": "72"
+        "Spd": "72",
+        "Image": "http://digidb.io/images/dot/dot595.png"
     },
     {
-        "#": 33,
+        "No": 33,
         "Digimon": "Goblimon",
         "Stage": "Rookie",
         "Type": "Virus",
@@ -492,10 +524,11 @@
         "Atk": "115",
         "Def": "110",
         "Int": "51",
-        "Spd": "84"
+        "Spd": "84",
+        "Image": "http://digidb.io/images/dot/dot111.png"
     },
     {
-        "#": 34,
+        "No": 34,
         "Digimon": "Gomamon",
         "Stage": "Rookie",
         "Type": "Vaccine",
@@ -507,10 +540,11 @@
         "Atk": "93",
         "Def": "93",
         "Int": "81",
-        "Spd": "79"
+        "Spd": "79",
+        "Image": "http://digidb.io/images/dot/dot343.png"
     },
     {
-        "#": 35,
+        "No": 35,
         "Digimon": "Syakomon",
         "Stage": "Rookie",
         "Type": "Virus",
@@ -522,10 +556,11 @@
         "Atk": "53",
         "Def": "86",
         "Int": "112",
-        "Spd": "78"
+        "Spd": "78",
+        "Image": "http://digidb.io/images/dot/dot709.png"
     },
     {
-        "#": 36,
+        "No": 36,
         "Digimon": "Zubamon",
         "Stage": "Rookie",
         "Type": "Vaccine",
@@ -537,10 +572,11 @@
         "Atk": "126",
         "Def": "111",
         "Int": "54",
-        "Spd": "87"
+        "Spd": "87",
+        "Image": "http://digidb.io/images/dot/dot697.png"
     },
     {
-        "#": 37,
+        "No": 37,
         "Digimon": "Solarmon",
         "Stage": "Rookie",
         "Type": "Vaccine",
@@ -552,10 +588,11 @@
         "Atk": "69",
         "Def": "108",
         "Int": "71",
-        "Spd": "77"
+        "Spd": "77",
+        "Image": "http://digidb.io/images/dot/dot728.png"
     },
     {
-        "#": 38,
+        "No": 38,
         "Digimon": "Chuumon",
         "Stage": "Rookie",
         "Type": "Virus",
@@ -567,10 +604,11 @@
         "Atk": "87",
         "Def": "73",
         "Int": "85",
-        "Spd": "111"
+        "Spd": "111",
+        "Image": "http://digidb.io/images/dot/dot020.png"
     },
     {
-        "#": 39,
+        "No": 39,
         "Digimon": "Terriermon",
         "Stage": "Rookie",
         "Type": "Vaccine",
@@ -582,10 +620,11 @@
         "Atk": "84",
         "Def": "75",
         "Int": "84",
-        "Spd": "112"
+        "Spd": "112",
+        "Image": "http://digidb.io/images/dot/dot701.png"
     },
     {
-        "#": 40,
+        "No": 40,
         "Digimon": "Tentomon",
         "Stage": "Rookie",
         "Type": "Vaccine",
@@ -597,10 +636,11 @@
         "Atk": "86",
         "Def": "110",
         "Int": "93",
-        "Spd": "73"
+        "Spd": "73",
+        "Image": "http://digidb.io/images/dot/dot303.png"
     },
     {
-        "#": 41,
+        "No": 41,
         "Digimon": "ToyAgumon",
         "Stage": "Rookie",
         "Type": "Vaccine",
@@ -612,10 +652,11 @@
         "Atk": "72",
         "Def": "112",
         "Int": "63",
-        "Spd": "71"
+        "Spd": "71",
+        "Image": "http://digidb.io/images/dot/dot708.png"
     },
     {
-        "#": 42,
+        "No": 42,
         "Digimon": "Dracmon",
         "Stage": "Rookie",
         "Type": "Virus",
@@ -627,10 +668,11 @@
         "Atk": "108",
         "Def": "88",
         "Int": "83",
-        "Spd": "84"
+        "Spd": "84",
+        "Image": "http://digidb.io/images/dot/dot457.png"
     },
     {
-        "#": 43,
+        "No": 43,
         "Digimon": "Dracomon",
         "Stage": "Rookie",
         "Type": "Data",
@@ -642,10 +684,11 @@
         "Atk": "132",
         "Def": "89",
         "Int": "49",
-        "Spd": "99"
+        "Spd": "99",
+        "Image": "http://digidb.io/images/dot/dot208.png"
     },
     {
-        "#": 44,
+        "No": 44,
         "Digimon": "Dorumon",
         "Stage": "Rookie",
         "Type": "Data",
@@ -657,10 +700,11 @@
         "Atk": "128",
         "Def": "79",
         "Int": "56",
-        "Spd": "101"
+        "Spd": "101",
+        "Image": "http://digidb.io/images/dot/dot112.png"
     },
     {
-        "#": 45,
+        "No": 45,
         "Digimon": "Hagurumon",
         "Stage": "Rookie",
         "Type": "Virus",
@@ -672,10 +716,11 @@
         "Atk": "66",
         "Def": "110",
         "Int": "69",
-        "Spd": "71"
+        "Spd": "71",
+        "Image": "http://digidb.io/images/dot/dot009.png"
     },
     {
-        "#": 46,
+        "No": 46,
         "Digimon": "Patamon",
         "Stage": "Rookie",
         "Type": "Data",
@@ -687,10 +732,11 @@
         "Atk": "79",
         "Def": "74",
         "Int": "92",
-        "Spd": "90"
+        "Spd": "90",
+        "Image": "http://digidb.io/images/dot/dot096.png"
     },
     {
-        "#": 47,
+        "No": 47,
         "Digimon": "Hackmon",
         "Stage": "Rookie",
         "Type": "Data",
@@ -702,10 +748,11 @@
         "Atk": "118",
         "Def": "108",
         "Int": "63",
-        "Spd": "85"
+        "Spd": "85",
+        "Image": "http://digidb.io/images/dot/dot687.png"
     },
     {
-        "#": 48,
+        "No": 48,
         "Digimon": "Palmon",
         "Stage": "Rookie",
         "Type": "Data",
@@ -717,10 +764,11 @@
         "Atk": "103",
         "Def": "90",
         "Int": "80",
-        "Spd": "79"
+        "Spd": "79",
+        "Image": "http://digidb.io/images/dot/dot348.png"
     },
     {
-        "#": 49,
+        "No": 49,
         "Digimon": "DemiDevimon",
         "Stage": "Rookie",
         "Type": "Virus",
@@ -732,10 +780,11 @@
         "Atk": "89",
         "Def": "76",
         "Int": "89",
-        "Spd": "111"
+        "Spd": "111",
+        "Image": "http://digidb.io/images/dot/dot097.png"
     },
     {
-        "#": 50,
+        "No": 50,
         "Digimon": "Biyomon",
         "Stage": "Rookie",
         "Type": "Vaccine",
@@ -747,10 +796,11 @@
         "Atk": "85",
         "Def": "79",
         "Int": "85",
-        "Spd": "91"
+        "Spd": "91",
+        "Image": "http://digidb.io/images/dot/dot307.png"
     },
     {
-        "#": 51,
+        "No": 51,
         "Digimon": "Falcomon",
         "Stage": "Rookie",
         "Type": "Vaccine",
@@ -762,10 +812,11 @@
         "Atk": "94",
         "Def": "79",
         "Int": "79",
-        "Spd": "113"
+        "Spd": "113",
+        "Image": "http://digidb.io/images/dot/dot705.png"
     },
     {
-        "#": 52,
+        "No": 52,
         "Digimon": "FanBeemon",
         "Stage": "Rookie",
         "Type": "Virus",
@@ -777,10 +828,11 @@
         "Atk": "104",
         "Def": "86",
         "Int": "73",
-        "Spd": "98"
+        "Spd": "98",
+        "Image": "http://digidb.io/images/dot/dot042.png"
     },
     {
-        "#": 53,
+        "No": 53,
         "Digimon": "Veemon",
         "Stage": "Rookie",
         "Type": "Free",
@@ -792,10 +844,11 @@
         "Atk": "130",
         "Def": "74",
         "Int": "53",
-        "Spd": "101"
+        "Spd": "101",
+        "Image": "http://digidb.io/images/dot/dot114.png"
     },
     {
-        "#": 54,
+        "No": 54,
         "Digimon": "Salamon",
         "Stage": "Rookie",
         "Type": "Vaccine",
@@ -807,10 +860,11 @@
         "Atk": "59",
         "Def": "69",
         "Int": "119",
-        "Spd": "97"
+        "Spd": "97",
+        "Image": "http://digidb.io/images/dot/dot361.png"
     },
     {
-        "#": 55,
+        "No": 55,
         "Digimon": "Betamon",
         "Stage": "Rookie",
         "Type": "Virus",
@@ -822,10 +876,11 @@
         "Atk": "61",
         "Def": "76",
         "Int": "113",
-        "Spd": "78"
+        "Spd": "78",
+        "Image": "http://digidb.io/images/dot/dot389.png"
     },
     {
-        "#": 56,
+        "No": 56,
         "Digimon": "Hawkmon",
         "Stage": "Rookie",
         "Type": "Free",
@@ -837,10 +892,11 @@
         "Atk": "99",
         "Def": "79",
         "Int": "83",
-        "Spd": "114"
+        "Spd": "114",
+        "Image": "http://digidb.io/images/dot/dot706.png"
     },
     {
-        "#": 57,
+        "No": 57,
         "Digimon": "Mushroomon",
         "Stage": "Rookie",
         "Type": "Virus",
@@ -852,10 +908,11 @@
         "Atk": "96",
         "Def": "88",
         "Int": "79",
-        "Spd": "78"
+        "Spd": "78",
+        "Image": "http://digidb.io/images/dot/dot607.png"
     },
     {
-        "#": 58,
+        "No": 58,
         "Digimon": "Monodramon",
         "Stage": "Rookie",
         "Type": "Vaccine",
@@ -867,10 +924,11 @@
         "Atk": "128",
         "Def": "100",
         "Int": "51",
-        "Spd": "79"
+        "Spd": "79",
+        "Image": "http://digidb.io/images/dot/dot458.png"
     },
     {
-        "#": 59,
+        "No": 59,
         "Digimon": "Lalamon",
         "Stage": "Rookie",
         "Type": "Data",
@@ -882,10 +940,11 @@
         "Atk": "87",
         "Def": "87",
         "Int": "79",
-        "Spd": "79"
+        "Spd": "79",
+        "Image": "http://digidb.io/images/dot/dot056.png"
     },
     {
-        "#": 60,
+        "No": 60,
         "Digimon": "Lucemon",
         "Stage": "Rookie",
         "Type": "Vaccine",
@@ -897,10 +956,11 @@
         "Atk": "59",
         "Def": "104",
         "Int": "208",
-        "Spd": "119"
+        "Spd": "119",
+        "Image": "http://digidb.io/images/dot/dot390.png"
     },
     {
-        "#": 61,
+        "No": 61,
         "Digimon": "Lunamon",
         "Stage": "Rookie",
         "Type": "Data",
@@ -912,10 +972,11 @@
         "Atk": "89",
         "Def": "76",
         "Int": "101",
-        "Spd": "82"
+        "Spd": "82",
+        "Image": "http://digidb.io/images/dot/dot002.png"
     },
     {
-        "#": 62,
+        "No": 62,
         "Digimon": "Renamon",
         "Stage": "Rookie",
         "Type": "Data",
@@ -927,10 +988,11 @@
         "Atk": "89",
         "Def": "74",
         "Int": "89",
-        "Spd": "93"
+        "Spd": "93",
+        "Image": "http://digidb.io/images/dot/dot391.png"
     },
     {
-        "#": 63,
+        "No": 63,
         "Digimon": "Lopmon",
         "Stage": "Rookie",
         "Type": "Data",
@@ -942,10 +1004,11 @@
         "Atk": "103",
         "Def": "68",
         "Int": "103",
-        "Spd": "85"
+        "Spd": "85",
+        "Image": "http://digidb.io/images/dot/dot750.png"
     },
     {
-        "#": 64,
+        "No": 64,
         "Digimon": "Wormmon",
         "Stage": "Rookie",
         "Type": "Free",
@@ -957,10 +1020,11 @@
         "Atk": "92",
         "Def": "111",
         "Int": "90",
-        "Spd": "71"
+        "Spd": "71",
+        "Image": "http://digidb.io/images/dot/dot392.png"
     },
     {
-        "#": 65,
+        "No": 65,
         "Digimon": "IceDevimon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -972,10 +1036,11 @@
         "Atk": "140",
         "Def": "89",
         "Int": "118",
-        "Spd": "92"
+        "Spd": "92",
+        "Image": "http://digidb.io/images/dot/dot730.png"
     },
     {
-        "#": 66,
+        "No": 66,
         "Digimon": "Icemon",
         "Stage": "Champion",
         "Type": "Data",
@@ -987,10 +1052,11 @@
         "Atk": "108",
         "Def": "132",
         "Int": "106",
-        "Spd": "84"
+        "Spd": "84",
+        "Image": "http://digidb.io/images/dot/dot758.png"
     },
     {
-        "#": 67,
+        "No": 67,
         "Digimon": "Aquilamon",
         "Stage": "Champion",
         "Type": "Free",
@@ -1002,10 +1068,11 @@
         "Atk": "109",
         "Def": "89",
         "Int": "89",
-        "Spd": "143"
+        "Spd": "143",
+        "Image": "http://digidb.io/images/dot/dot015.png"
     },
     {
-        "#": 68,
+        "No": 68,
         "Digimon": "Agunimon",
         "Stage": "Champion",
         "Type": "Free",
@@ -1017,10 +1084,11 @@
         "Atk": "134",
         "Def": "93",
         "Int": "84",
-        "Spd": "119"
+        "Spd": "119",
+        "Image": "http://digidb.io/images/dot/dot676.png"
     },
     {
-        "#": 69,
+        "No": 69,
         "Digimon": "Arcadiamon Champion",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1032,10 +1100,11 @@
         "Atk": "139",
         "Def": "84",
         "Int": "89",
-        "Spd": "108"
+        "Spd": "108",
+        "Image": "http://digidb.io/images/dot/dot064.png"
     },
     {
-        "#": 70,
+        "No": 70,
         "Digimon": "Ankylomon",
         "Stage": "Champion",
         "Type": "Free",
@@ -1047,10 +1116,11 @@
         "Atk": "89",
         "Def": "133",
         "Int": "79",
-        "Spd": "79"
+        "Spd": "79",
+        "Image": "http://digidb.io/images/dot/dot711.png"
     },
     {
-        "#": 71,
+        "No": 71,
         "Digimon": "Ikkakumon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -1062,10 +1132,11 @@
         "Atk": "118",
         "Def": "102",
         "Int": "94",
-        "Spd": "90"
+        "Spd": "90",
+        "Image": "http://digidb.io/images/dot/dot344.png"
     },
     {
-        "#": 72,
+        "No": 72,
         "Digimon": "Wizardmon",
         "Stage": "Champion",
         "Type": "Data",
@@ -1077,10 +1148,11 @@
         "Atk": "74",
         "Def": "79",
         "Int": "143",
-        "Spd": "118"
+        "Spd": "118",
+        "Image": "http://digidb.io/images/dot/dot377.png"
     },
     {
-        "#": 73,
+        "No": 73,
         "Digimon": "Lobomon",
         "Stage": "Champion",
         "Type": "Free",
@@ -1092,10 +1164,11 @@
         "Atk": "143",
         "Def": "95",
         "Int": "69",
-        "Spd": "117"
+        "Spd": "117",
+        "Image": "http://digidb.io/images/dot/dot680.png"
     },
     {
-        "#": 74,
+        "No": 74,
         "Digimon": "Woodmon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1107,10 +1180,11 @@
         "Atk": "109",
         "Def": "103",
         "Int": "89",
-        "Spd": "88"
+        "Spd": "88",
+        "Image": "http://digidb.io/images/dot/dot393.png"
     },
     {
-        "#": 75,
+        "No": 75,
         "Digimon": "Airdramon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -1122,10 +1196,11 @@
         "Atk": "126",
         "Def": "100",
         "Int": "86",
-        "Spd": "118"
+        "Spd": "118",
+        "Image": "http://digidb.io/images/dot/dot011.png"
     },
     {
-        "#": 76,
+        "No": 76,
         "Digimon": "ExVeemon",
         "Stage": "Champion",
         "Type": "Free",
@@ -1137,10 +1212,11 @@
         "Atk": "104",
         "Def": "94",
         "Int": "94",
-        "Spd": "118"
+        "Spd": "118",
+        "Image": "http://digidb.io/images/dot/dot365.png"
     },
     {
-        "#": 77,
+        "No": 77,
         "Digimon": "Angemon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -1152,10 +1228,11 @@
         "Atk": "128",
         "Def": "89",
         "Int": "128",
-        "Spd": "99"
+        "Spd": "99",
+        "Image": "http://digidb.io/images/dot/dot087.png"
     },
     {
-        "#": 78,
+        "No": 78,
         "Digimon": "Ogremon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1167,10 +1244,11 @@
         "Atk": "155",
         "Def": "118",
         "Int": "64",
-        "Spd": "97"
+        "Spd": "97",
+        "Image": "http://digidb.io/images/dot/dot394.png"
     },
     {
-        "#": 79,
+        "No": 79,
         "Digimon": "Guardromon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1182,10 +1260,11 @@
         "Atk": "108",
         "Def": "138",
         "Int": "103",
-        "Spd": "79"
+        "Spd": "79",
+        "Image": "http://digidb.io/images/dot/dot341.png"
     },
     {
-        "#": 80,
+        "No": 80,
         "Digimon": "Guardromon (Gold)",
         "Stage": "Champion",
         "Type": "Free",
@@ -1197,10 +1276,11 @@
         "Atk": "99",
         "Def": "168",
         "Int": "96",
-        "Spd": "62"
+        "Spd": "62",
+        "Image": "http://digidb.io/images/dot/dot760.png"
     },
     {
-        "#": 81,
+        "No": 81,
         "Digimon": "GaoGamon",
         "Stage": "Champion",
         "Type": "Data",
@@ -1212,10 +1292,11 @@
         "Atk": "109",
         "Def": "94",
         "Int": "99",
-        "Spd": "138"
+        "Spd": "138",
+        "Image": "http://digidb.io/images/dot/dot068.png"
     },
     {
-        "#": 82,
+        "No": 82,
         "Digimon": "Kabuterimon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -1227,10 +1308,11 @@
         "Atk": "108",
         "Def": "128",
         "Int": "116",
-        "Spd": "81"
+        "Spd": "81",
+        "Image": "http://digidb.io/images/dot/dot304.png"
     },
     {
-        "#": 83,
+        "No": 83,
         "Digimon": "ShellNumemon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1242,10 +1324,11 @@
         "Atk": "79",
         "Def": "148",
         "Int": "74",
-        "Spd": "79"
+        "Spd": "79",
+        "Image": "http://digidb.io/images/dot/dot455.png"
     },
     {
-        "#": 84,
+        "No": 84,
         "Digimon": "Gargomon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -1257,10 +1340,11 @@
         "Atk": "109",
         "Def": "99",
         "Int": "89",
-        "Spd": "108"
+        "Spd": "108",
+        "Image": "http://digidb.io/images/dot/dot710.png"
     },
     {
-        "#": 85,
+        "No": 85,
         "Digimon": "Garurumon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -1272,10 +1356,11 @@
         "Atk": "99",
         "Def": "94",
         "Int": "94",
-        "Spd": "138"
+        "Spd": "138",
+        "Image": "http://digidb.io/images/dot/dot012.png"
     },
     {
-        "#": 86,
+        "No": 86,
         "Digimon": "Garurumon (Blk)",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1287,10 +1372,11 @@
         "Atk": "109",
         "Def": "104",
         "Int": "79",
-        "Spd": "133"
+        "Spd": "133",
+        "Image": "http://digidb.io/images/dot/dot714.png"
     },
     {
-        "#": 87,
+        "No": 87,
         "Digimon": "Kyubimon",
         "Stage": "Champion",
         "Type": "Data",
@@ -1302,10 +1388,11 @@
         "Atk": "59",
         "Def": "84",
         "Int": "138",
-        "Spd": "128"
+        "Spd": "128",
+        "Image": "http://digidb.io/images/dot/dot395.png"
     },
     {
-        "#": 88,
+        "No": 88,
         "Digimon": "Growlmon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1317,10 +1404,11 @@
         "Atk": "143",
         "Def": "113",
         "Int": "69",
-        "Spd": "109"
+        "Spd": "109",
+        "Image": "http://digidb.io/images/dot/dot078.png"
     },
     {
-        "#": 89,
+        "No": 89,
         "Digimon": "Kurisarimon",
         "Stage": "Champion",
         "Type": "Free",
@@ -1332,10 +1420,11 @@
         "Atk": "153",
         "Def": "79",
         "Int": "64",
-        "Spd": "113"
+        "Spd": "113",
+        "Image": "http://digidb.io/images/dot/dot630.png"
     },
     {
-        "#": 90,
+        "No": 90,
         "Digimon": "Greymon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -1347,10 +1436,11 @@
         "Atk": "148",
         "Def": "118",
         "Int": "64",
-        "Spd": "104"
+        "Spd": "104",
+        "Image": "http://digidb.io/images/dot/dot326.png"
     },
     {
-        "#": 91,
+        "No": 91,
         "Digimon": "Greymon (Blue)",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1362,10 +1452,11 @@
         "Atk": "153",
         "Def": "118",
         "Int": "59",
-        "Spd": "99"
+        "Spd": "99",
+        "Image": "http://digidb.io/images/dot/dot712.png"
     },
     {
-        "#": 92,
+        "No": 92,
         "Digimon": "Clockmon",
         "Stage": "Champion",
         "Type": "Data",
@@ -1377,10 +1468,11 @@
         "Atk": "64",
         "Def": "101",
         "Int": "133",
-        "Spd": "92"
+        "Spd": "92",
+        "Image": "http://digidb.io/images/dot/dot398.png"
     },
     {
-        "#": 93,
+        "No": 93,
         "Digimon": "Kuwagamon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1392,10 +1484,11 @@
         "Atk": "153",
         "Def": "113",
         "Int": "59",
-        "Spd": "99"
+        "Spd": "99",
+        "Image": "http://digidb.io/images/dot/dot367.png"
     },
     {
-        "#": 94,
+        "No": 94,
         "Digimon": "Gekomon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1407,10 +1500,11 @@
         "Atk": "68",
         "Def": "89",
         "Int": "128",
-        "Spd": "90"
+        "Spd": "90",
+        "Image": "http://digidb.io/images/dot/dot399.png"
     },
     {
-        "#": 95,
+        "No": 95,
         "Digimon": "Geremon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1422,10 +1516,11 @@
         "Atk": "104",
         "Def": "128",
         "Int": "64",
-        "Spd": "78"
+        "Spd": "78",
+        "Image": "http://digidb.io/images/dot/dot729.png"
     },
     {
-        "#": 96,
+        "No": 96,
         "Digimon": "Coredramon (Blue)",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -1437,10 +1532,11 @@
         "Atk": "151",
         "Def": "103",
         "Int": "69",
-        "Spd": "109"
+        "Spd": "109",
+        "Image": "http://digidb.io/images/dot/dot218.png"
     },
     {
-        "#": 97,
+        "No": 97,
         "Digimon": "Coredramon (Green)",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1452,10 +1548,11 @@
         "Atk": "151",
         "Def": "99",
         "Int": "61",
-        "Spd": "123"
+        "Spd": "123",
+        "Image": "http://digidb.io/images/dot/dot209.png"
     },
     {
-        "#": 98,
+        "No": 98,
         "Digimon": "GoldNumemon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1467,10 +1564,11 @@
         "Atk": "59",
         "Def": "84",
         "Int": "143",
-        "Spd": "88"
+        "Spd": "88",
+        "Image": "http://digidb.io/images/dot/dot113.png"
     },
     {
-        "#": 99,
+        "No": 99,
         "Digimon": "Golemon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1482,10 +1580,11 @@
         "Atk": "121",
         "Def": "132",
         "Int": "62",
-        "Spd": "74"
+        "Spd": "74",
+        "Image": "http://digidb.io/images/dot/dot005.png"
     },
     {
-        "#": 100,
+        "No": 100,
         "Digimon": "Cyclonemon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1497,10 +1596,11 @@
         "Atk": "131",
         "Def": "128",
         "Int": "93",
-        "Spd": "81"
+        "Spd": "81",
+        "Image": "http://digidb.io/images/dot/dot452.png"
     },
     {
-        "#": 101,
+        "No": 101,
         "Digimon": "Sangloupmon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1512,10 +1612,11 @@
         "Atk": "123",
         "Def": "91",
         "Int": "90",
-        "Spd": "104"
+        "Spd": "104",
+        "Image": "http://digidb.io/images/dot/dot030.png"
     },
     {
-        "#": 102,
+        "No": 102,
         "Digimon": "Sunflowmon",
         "Stage": "Champion",
         "Type": "Data",
@@ -1527,10 +1628,11 @@
         "Atk": "64",
         "Def": "89",
         "Int": "141",
-        "Spd": "86"
+        "Spd": "86",
+        "Image": "http://digidb.io/images/dot/dot058.png"
     },
     {
-        "#": 103,
+        "No": 103,
         "Digimon": "Seadramon",
         "Stage": "Champion",
         "Type": "Data",
@@ -1542,10 +1644,11 @@
         "Atk": "64",
         "Def": "99",
         "Int": "134",
-        "Spd": "88"
+        "Spd": "88",
+        "Image": "http://digidb.io/images/dot/dot347.png"
     },
     {
-        "#": 104,
+        "No": 104,
         "Digimon": "Coelamon",
         "Stage": "Champion",
         "Type": "Data",
@@ -1557,10 +1660,11 @@
         "Atk": "113",
         "Def": "105",
         "Int": "90",
-        "Spd": "96"
+        "Spd": "96",
+        "Image": "http://digidb.io/images/dot/dot130.png"
     },
     {
-        "#": 105,
+        "No": 105,
         "Digimon": "GeoGreymon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -1572,10 +1676,11 @@
         "Atk": "143",
         "Def": "84",
         "Int": "64",
-        "Spd": "118"
+        "Spd": "118",
+        "Image": "http://digidb.io/images/dot/dot054.png"
     },
     {
-        "#": 106,
+        "No": 106,
         "Digimon": "Sukamon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1587,10 +1692,11 @@
         "Atk": "89",
         "Def": "133",
         "Int": "69",
-        "Spd": "79"
+        "Spd": "79",
+        "Image": "http://digidb.io/images/dot/dot313.png"
     },
     {
-        "#": 107,
+        "No": 107,
         "Digimon": "Starmon",
         "Stage": "Champion",
         "Type": "Data",
@@ -1602,10 +1708,11 @@
         "Atk": "104",
         "Def": "109",
         "Int": "91",
-        "Spd": "101"
+        "Spd": "101",
+        "Image": "http://digidb.io/images/dot/dot014.png"
     },
     {
-        "#": 108,
+        "No": 108,
         "Digimon": "Stingmon",
         "Stage": "Champion",
         "Type": "Free",
@@ -1617,10 +1724,11 @@
         "Atk": "143",
         "Def": "74",
         "Int": "74",
-        "Spd": "133"
+        "Spd": "133",
+        "Image": "http://digidb.io/images/dot/dot091.png"
     },
     {
-        "#": 109,
+        "No": 109,
         "Digimon": "Strikedramon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -1632,10 +1740,11 @@
         "Atk": "151",
         "Def": "87",
         "Int": "68",
-        "Spd": "118"
+        "Spd": "118",
+        "Image": "http://digidb.io/images/dot/dot016.png"
     },
     {
-        "#": 110,
+        "No": 110,
         "Digimon": "Zubaeagermon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -1647,10 +1756,11 @@
         "Atk": "148",
         "Def": "126",
         "Int": "63",
-        "Spd": "111"
+        "Spd": "111",
+        "Image": "http://digidb.io/images/dot/dot698.png"
     },
     {
-        "#": 111,
+        "No": 111,
         "Digimon": "Socerimon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -1662,10 +1772,11 @@
         "Atk": "64",
         "Def": "93",
         "Int": "148",
-        "Spd": "90"
+        "Spd": "90",
+        "Image": "http://digidb.io/images/dot/dot755.png"
     },
     {
-        "#": 112,
+        "No": 112,
         "Digimon": "Tankmon",
         "Stage": "Champion",
         "Type": "Data",
@@ -1677,10 +1788,11 @@
         "Atk": "113",
         "Def": "141",
         "Int": "98",
-        "Spd": "81"
+        "Spd": "81",
+        "Image": "http://digidb.io/images/dot/dot621.png"
     },
     {
-        "#": 113,
+        "No": 113,
         "Digimon": "MudFrigimon",
         "Stage": "Champion",
         "Type": "Data",
@@ -1692,10 +1804,11 @@
         "Atk": "101",
         "Def": "99",
         "Int": "97",
-        "Spd": "99"
+        "Spd": "99",
+        "Image": "http://digidb.io/images/dot/dot759.png"
     },
     {
-        "#": 114,
+        "No": 114,
         "Digimon": "Tyrannomon",
         "Stage": "Champion",
         "Type": "Data",
@@ -1707,10 +1820,11 @@
         "Atk": "148",
         "Def": "125",
         "Int": "59",
-        "Spd": "97"
+        "Spd": "97",
+        "Image": "http://digidb.io/images/dot/dot363.png"
     },
     {
-        "#": 115,
+        "No": 115,
         "Digimon": "Gatomon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -1722,10 +1836,11 @@
         "Atk": "69",
         "Def": "79",
         "Int": "143",
-        "Spd": "123"
+        "Spd": "123",
+        "Image": "http://digidb.io/images/dot/dot092.png"
     },
     {
-        "#": 116,
+        "No": 116,
         "Digimon": "Devimon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1737,10 +1852,11 @@
         "Atk": "133",
         "Def": "84",
         "Int": "125",
-        "Spd": "97"
+        "Spd": "97",
+        "Image": "http://digidb.io/images/dot/dot093.png"
     },
     {
-        "#": 117,
+        "No": 117,
         "Digimon": "Turuiemon",
         "Stage": "Champion",
         "Type": "Data",
@@ -1752,10 +1868,11 @@
         "Atk": "130",
         "Def": "91",
         "Int": "78",
-        "Spd": "120"
+        "Spd": "120",
+        "Image": "http://digidb.io/images/dot/dot102.png"
     },
     {
-        "#": 118,
+        "No": 118,
         "Digimon": "Togemon",
         "Stage": "Champion",
         "Type": "Data",
@@ -1767,10 +1884,11 @@
         "Atk": "108",
         "Def": "113",
         "Int": "93",
-        "Spd": "90"
+        "Spd": "90",
+        "Image": "http://digidb.io/images/dot/dot349.png"
     },
     {
-        "#": 119,
+        "No": 119,
         "Digimon": "Dorugamon",
         "Stage": "Champion",
         "Type": "Data",
@@ -1782,10 +1900,11 @@
         "Atk": "138",
         "Def": "89",
         "Int": "69",
-        "Spd": "123"
+        "Spd": "123",
+        "Image": "http://digidb.io/images/dot/dot396.png"
     },
     {
-        "#": 120,
+        "No": 120,
         "Digimon": "Nanimon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1797,10 +1916,11 @@
         "Atk": "108",
         "Def": "133",
         "Int": "98",
-        "Spd": "81"
+        "Spd": "81",
+        "Image": "http://digidb.io/images/dot/dot375.png"
     },
     {
-        "#": 121,
+        "No": 121,
         "Digimon": "Numemon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1812,10 +1932,11 @@
         "Atk": "84",
         "Def": "138",
         "Int": "69",
-        "Spd": "83"
+        "Spd": "83",
+        "Image": "http://digidb.io/images/dot/dot070.png"
     },
     {
-        "#": 122,
+        "No": 122,
         "Digimon": "Birdramon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -1827,10 +1948,11 @@
         "Atk": "94",
         "Def": "84",
         "Int": "109",
-        "Spd": "128"
+        "Spd": "128",
+        "Image": "http://digidb.io/images/dot/dot308.png"
     },
     {
-        "#": 123,
+        "No": 123,
         "Digimon": "BaoHuckmon",
         "Stage": "Champion",
         "Type": "Data",
@@ -1842,10 +1964,11 @@
         "Atk": "116",
         "Def": "117",
         "Int": "90",
-        "Spd": "113"
+        "Spd": "113",
+        "Image": "http://digidb.io/images/dot/dot115.png"
     },
     {
-        "#": 124,
+        "No": 124,
         "Digimon": "Bakemon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1857,10 +1980,11 @@
         "Atk": "64",
         "Def": "74",
         "Int": "138",
-        "Spd": "128"
+        "Spd": "128",
+        "Image": "http://digidb.io/images/dot/dot013.png"
     },
     {
-        "#": 125,
+        "No": 125,
         "Digimon": "Veedramon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -1872,10 +1996,11 @@
         "Atk": "138",
         "Def": "113",
         "Int": "64",
-        "Spd": "114"
+        "Spd": "114",
+        "Image": "http://digidb.io/images/dot/dot397.png"
     },
     {
-        "#": 126,
+        "No": 126,
         "Digimon": "Hudiemon",
         "Stage": "Champion",
         "Type": "Free",
@@ -1887,10 +2012,11 @@
         "Atk": "109",
         "Def": "85",
         "Int": "113",
-        "Spd": "115"
+        "Spd": "115",
+        "Image": "http://digidb.io/images/dot/dot022.png"
     },
     {
-        "#": 127,
+        "No": 127,
         "Digimon": "PlatinumSukamon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1902,10 +2028,11 @@
         "Atk": "84",
         "Def": "999",
         "Int": "50",
-        "Spd": "103"
+        "Spd": "103",
+        "Image": "http://digidb.io/images/dot/dot752.png"
     },
     {
-        "#": 128,
+        "No": 128,
         "Digimon": "BlackGatomon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1917,10 +2044,11 @@
         "Atk": "84",
         "Def": "84",
         "Int": "133",
-        "Spd": "118"
+        "Spd": "118",
+        "Image": "http://digidb.io/images/dot/dot043.png"
     },
     {
-        "#": 129,
+        "No": 129,
         "Digimon": "Vegiemon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -1932,10 +2060,11 @@
         "Atk": "113",
         "Def": "106",
         "Int": "87",
-        "Spd": "88"
+        "Spd": "88",
+        "Image": "http://digidb.io/images/dot/dot314.png"
     },
     {
-        "#": 130,
+        "No": 130,
         "Digimon": "Peckmon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -1947,10 +2076,11 @@
         "Atk": "104",
         "Def": "84",
         "Int": "94",
-        "Spd": "148"
+        "Spd": "148",
+        "Image": "http://digidb.io/images/dot/dot702.png"
     },
     {
-        "#": 131,
+        "No": 131,
         "Digimon": "Meramon",
         "Stage": "Champion",
         "Type": "Data",
@@ -1962,10 +2092,11 @@
         "Atk": "138",
         "Def": "113",
         "Int": "79",
-        "Spd": "99"
+        "Spd": "99",
+        "Image": "http://digidb.io/images/dot/dot010.png"
     },
     {
-        "#": 132,
+        "No": 132,
         "Digimon": "Monochromon",
         "Stage": "Champion",
         "Type": "Data",
@@ -1977,10 +2108,11 @@
         "Atk": "135",
         "Def": "128",
         "Int": "77",
-        "Spd": "92"
+        "Spd": "92",
+        "Image": "http://digidb.io/images/dot/dot369.png"
     },
     {
-        "#": 133,
+        "No": 133,
         "Digimon": "Frigimon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -1992,10 +2124,11 @@
         "Atk": "103",
         "Def": "98",
         "Int": "99",
-        "Spd": "90"
+        "Spd": "90",
+        "Image": "http://digidb.io/images/dot/dot370.png"
     },
     {
-        "#": 134,
+        "No": 134,
         "Digimon": "Unimon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -2007,10 +2140,11 @@
         "Atk": "84",
         "Def": "79",
         "Int": "128",
-        "Spd": "118"
+        "Spd": "118",
+        "Image": "http://digidb.io/images/dot/dot548.png"
     },
     {
-        "#": 135,
+        "No": 135,
         "Digimon": "Raptordramon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -2022,10 +2156,11 @@
         "Atk": "131",
         "Def": "101",
         "Int": "83",
-        "Spd": "100"
+        "Spd": "100",
+        "Image": "http://digidb.io/images/dot/dot025.png"
     },
     {
-        "#": 136,
+        "No": 136,
         "Digimon": "Raremon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -2037,10 +2172,11 @@
         "Atk": "105",
         "Def": "100",
         "Int": "88",
-        "Spd": "103"
+        "Spd": "103",
+        "Image": "http://digidb.io/images/dot/dot590.png"
     },
     {
-        "#": 137,
+        "No": 137,
         "Digimon": "Leomon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -2052,10 +2188,11 @@
         "Atk": "143",
         "Def": "123",
         "Int": "71",
-        "Spd": "97"
+        "Spd": "97",
+        "Image": "http://digidb.io/images/dot/dot072.png"
     },
     {
-        "#": 138,
+        "No": 138,
         "Digimon": "Lekismon",
         "Stage": "Champion",
         "Type": "Data",
@@ -2067,10 +2204,11 @@
         "Atk": "94",
         "Def": "84",
         "Int": "99",
-        "Spd": "143"
+        "Spd": "143",
+        "Image": "http://digidb.io/images/dot/dot003.png"
     },
     {
-        "#": 139,
+        "No": 139,
         "Digimon": "Reppamon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -2082,10 +2220,11 @@
         "Atk": "94",
         "Def": "99",
         "Int": "99",
-        "Spd": "143"
+        "Spd": "143",
+        "Image": "http://digidb.io/images/dot/dot077.png"
     },
     {
-        "#": 140,
+        "No": 140,
         "Digimon": "Waspmon",
         "Stage": "Champion",
         "Type": "Virus",
@@ -2097,10 +2236,11 @@
         "Atk": "133",
         "Def": "99",
         "Int": "74",
-        "Spd": "113"
+        "Spd": "113",
+        "Image": "http://digidb.io/images/dot/dot454.png"
     },
     {
-        "#": 141,
+        "No": 141,
         "Digimon": "MegaKabuterimon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -2112,10 +2252,11 @@
         "Atk": "94",
         "Def": "163",
         "Int": "109",
-        "Spd": "92"
+        "Spd": "92",
+        "Image": "http://digidb.io/images/dot/dot305.png"
     },
     {
-        "#": 142,
+        "No": 142,
         "Digimon": "Arcadiamon Ultimate",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -2127,10 +2268,11 @@
         "Atk": "157",
         "Def": "99",
         "Int": "119",
-        "Spd": "138"
+        "Spd": "138",
+        "Image": "http://digidb.io/images/dot/dot065.png"
     },
     {
-        "#": 143,
+        "No": 143,
         "Digimon": "Antylamon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -2142,10 +2284,11 @@
         "Atk": "124",
         "Def": "109",
         "Int": "114",
-        "Spd": "168"
+        "Spd": "168",
+        "Image": "http://digidb.io/images/dot/dot731.png"
     },
     {
-        "#": 144,
+        "No": 144,
         "Digimon": "Andromon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -2157,10 +2300,11 @@
         "Atk": "133",
         "Def": "157",
         "Int": "133",
-        "Spd": "95"
+        "Spd": "95",
+        "Image": "http://digidb.io/images/dot/dot342.png"
     },
     {
-        "#": 145,
+        "No": 145,
         "Digimon": "Meteormon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -2172,10 +2316,11 @@
         "Atk": "123",
         "Def": "163",
         "Int": "128",
-        "Spd": "89"
+        "Spd": "89",
+        "Image": "http://digidb.io/images/dot/dot756.png"
     },
     {
-        "#": 146,
+        "No": 146,
         "Digimon": "Infermon",
         "Stage": "Ultimate",
         "Type": "Free",
@@ -2187,10 +2332,11 @@
         "Atk": "198",
         "Def": "89",
         "Int": "74",
-        "Spd": "153"
+        "Spd": "153",
+        "Image": "http://digidb.io/images/dot/dot627.png"
     },
     {
-        "#": 147,
+        "No": 147,
         "Digimon": "Myotismon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -2202,10 +2348,11 @@
         "Atk": "148",
         "Def": "99",
         "Int": "148",
-        "Spd": "110"
+        "Spd": "110",
+        "Image": "http://digidb.io/images/dot/dot085.png"
     },
     {
-        "#": 148,
+        "No": 148,
         "Digimon": "Wingdramon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -2217,10 +2364,11 @@
         "Atk": "163",
         "Def": "109",
         "Int": "89",
-        "Spd": "158"
+        "Spd": "158",
+        "Image": "http://digidb.io/images/dot/dot210.png"
     },
     {
-        "#": 149,
+        "No": 149,
         "Digimon": "BurningGreymon",
         "Stage": "Ultimate",
         "Type": "Free",
@@ -2232,10 +2380,11 @@
         "Atk": "169",
         "Def": "131",
         "Int": "95",
-        "Spd": "128"
+        "Spd": "128",
+        "Image": "http://digidb.io/images/dot/dot679.png"
     },
     {
-        "#": 150,
+        "No": 150,
         "Digimon": "AeroVeedramon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -2247,10 +2396,11 @@
         "Atk": "163",
         "Def": "99",
         "Int": "94",
-        "Spd": "153"
+        "Spd": "153",
+        "Image": "http://digidb.io/images/dot/dot400.png"
     },
     {
-        "#": 151,
+        "No": 151,
         "Digimon": "Etemon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -2262,10 +2412,11 @@
         "Atk": "104",
         "Def": "119",
         "Int": "129",
-        "Spd": "133"
+        "Spd": "133",
+        "Image": "http://digidb.io/images/dot/dot311.png"
     },
     {
-        "#": 152,
+        "No": 152,
         "Digimon": "Angewomon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -2277,10 +2428,11 @@
         "Atk": "69",
         "Def": "94",
         "Int": "188",
-        "Spd": "143"
+        "Spd": "143",
+        "Image": "http://digidb.io/images/dot/dot148.png"
     },
     {
-        "#": 153,
+        "No": 153,
         "Digimon": "Okuwamon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -2292,10 +2444,11 @@
         "Atk": "158",
         "Def": "158",
         "Int": "74",
-        "Spd": "119"
+        "Spd": "119",
+        "Image": "http://digidb.io/images/dot/dot401.png"
     },
     {
-        "#": 154,
+        "No": 154,
         "Digimon": "Garudamon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -2307,10 +2460,11 @@
         "Atk": "124",
         "Def": "109",
         "Int": "129",
-        "Spd": "143"
+        "Spd": "143",
+        "Image": "http://digidb.io/images/dot/dot309.png"
     },
     {
-        "#": 155,
+        "No": 155,
         "Digimon": "KendoGarurumon",
         "Stage": "Ultimate",
         "Type": "Free",
@@ -2322,10 +2476,11 @@
         "Atk": "144",
         "Def": "128",
         "Int": "104",
-        "Spd": "124"
+        "Spd": "124",
+        "Image": "http://digidb.io/images/dot/dot681.png"
     },
     {
-        "#": 156,
+        "No": 156,
         "Digimon": "Gigadramon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -2337,10 +2492,11 @@
         "Atk": "137",
         "Def": "148",
         "Int": "113",
-        "Spd": "100"
+        "Spd": "100",
+        "Image": "http://digidb.io/images/dot/dot402.png"
     },
     {
-        "#": 157,
+        "No": 157,
         "Digimon": "CatchMamemon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -2352,10 +2508,11 @@
         "Atk": "123",
         "Def": "134",
         "Int": "95",
-        "Spd": "104"
+        "Spd": "104",
+        "Image": "http://digidb.io/images/dot/dot044.png"
     },
     {
-        "#": 158,
+        "No": 158,
         "Digimon": "CannonBeemon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -2367,10 +2524,11 @@
         "Atk": "129",
         "Def": "139",
         "Int": "99",
-        "Spd": "143"
+        "Spd": "143",
+        "Image": "http://digidb.io/images/dot/dot727.png"
     },
     {
-        "#": 159,
+        "No": 159,
         "Digimon": "Groundramon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -2382,10 +2540,11 @@
         "Atk": "198",
         "Def": "143",
         "Int": "74",
-        "Spd": "104"
+        "Spd": "104",
+        "Image": "http://digidb.io/images/dot/dot211.png"
     },
     {
-        "#": 160,
+        "No": 160,
         "Digimon": "GrapLeomon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -2397,10 +2556,11 @@
         "Atk": "163",
         "Def": "99",
         "Int": "79",
-        "Spd": "143"
+        "Spd": "143",
+        "Image": "http://digidb.io/images/dot/dot403.png"
     },
     {
-        "#": 161,
+        "No": 161,
         "Digimon": "Grademon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -2412,10 +2572,11 @@
         "Atk": "173",
         "Def": "89",
         "Int": "100",
-        "Spd": "144"
+        "Spd": "144",
+        "Image": "http://digidb.io/images/dot/dot026.png"
     },
     {
-        "#": 162,
+        "No": 162,
         "Digimon": "Crescemon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -2427,10 +2588,11 @@
         "Atk": "124",
         "Def": "103",
         "Int": "139",
-        "Spd": "114"
+        "Spd": "114",
+        "Image": "http://digidb.io/images/dot/dot004.png"
     },
     {
-        "#": 163,
+        "No": 163,
         "Digimon": "Cyberdramon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -2442,10 +2604,11 @@
         "Atk": "173",
         "Def": "143",
         "Int": "79",
-        "Spd": "122"
+        "Spd": "122",
+        "Image": "http://digidb.io/images/dot/dot719.png"
     },
     {
-        "#": 164,
+        "No": 164,
         "Digimon": "Shakkoumon",
         "Stage": "Ultimate",
         "Type": "Free",
@@ -2457,10 +2620,11 @@
         "Atk": "84",
         "Def": "158",
         "Int": "139",
-        "Spd": "92"
+        "Spd": "92",
+        "Image": "http://digidb.io/images/dot/dot723.png"
     },
     {
-        "#": 165,
+        "No": 165,
         "Digimon": "Cherrymon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -2472,10 +2636,11 @@
         "Atk": "113",
         "Def": "133",
         "Int": "114",
-        "Spd": "100"
+        "Spd": "100",
+        "Image": "http://digidb.io/images/dot/dot379.png"
     },
     {
-        "#": 166,
+        "No": 166,
         "Digimon": "Silphymon",
         "Stage": "Ultimate",
         "Type": "Free",
@@ -2487,10 +2652,11 @@
         "Atk": "119",
         "Def": "119",
         "Int": "124",
-        "Spd": "158"
+        "Spd": "158",
+        "Image": "http://digidb.io/images/dot/dot720.png"
     },
     {
-        "#": 167,
+        "No": 167,
         "Digimon": "SuperStarmon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -2502,10 +2668,11 @@
         "Atk": "122",
         "Def": "134",
         "Int": "109",
-        "Spd": "120"
+        "Spd": "120",
+        "Image": "http://digidb.io/images/dot/dot079.png"
     },
     {
-        "#": 168,
+        "No": 168,
         "Digimon": "SkullGreymon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -2517,10 +2684,11 @@
         "Atk": "203",
         "Def": "153",
         "Int": "69",
-        "Spd": "119"
+        "Spd": "119",
+        "Image": "http://digidb.io/images/dot/dot404.png"
     },
     {
-        "#": 169,
+        "No": 169,
         "Digimon": "SkullSatamon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -2532,10 +2700,11 @@
         "Atk": "141",
         "Def": "101",
         "Int": "132",
-        "Spd": "118"
+        "Spd": "118",
+        "Image": "http://digidb.io/images/dot/dot006.png"
     },
     {
-        "#": 170,
+        "No": 170,
         "Digimon": "Zudomon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -2547,10 +2716,11 @@
         "Atk": "150",
         "Def": "128",
         "Int": "104",
-        "Spd": "102"
+        "Spd": "102",
+        "Image": "http://digidb.io/images/dot/dot345.png"
     },
     {
-        "#": 171,
+        "No": 171,
         "Digimon": "SaviorHuckmon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -2562,10 +2732,11 @@
         "Atk": "163",
         "Def": "128",
         "Int": "79",
-        "Spd": "144"
+        "Spd": "144",
+        "Image": "http://digidb.io/images/dot/dot116.png"
     },
     {
-        "#": 172,
+        "No": 172,
         "Digimon": "Taomon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -2577,10 +2748,11 @@
         "Atk": "69",
         "Def": "104",
         "Int": "173",
-        "Spd": "138"
+        "Spd": "138",
+        "Image": "http://digidb.io/images/dot/dot405.png"
     },
     {
-        "#": 173,
+        "No": 173,
         "Digimon": "Dragomon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -2592,10 +2764,11 @@
         "Atk": "126",
         "Def": "111",
         "Int": "137",
-        "Spd": "99"
+        "Spd": "99",
+        "Image": "http://digidb.io/images/dot/dot129.png"
     },
     {
-        "#": 174,
+        "No": 174,
         "Digimon": "Chirinmon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -2607,10 +2780,11 @@
         "Atk": "124",
         "Def": "119",
         "Int": "124",
-        "Spd": "168"
+        "Spd": "168",
+        "Image": "http://digidb.io/images/dot/dot084.png"
     },
     {
-        "#": 175,
+        "No": 175,
         "Digimon": "Dinobeemon",
         "Stage": "Ultimate",
         "Type": "Free",
@@ -2622,10 +2796,11 @@
         "Atk": "193",
         "Def": "124",
         "Int": "84",
-        "Spd": "133"
+        "Spd": "133",
+        "Image": "http://digidb.io/images/dot/dot023.png"
     },
     {
-        "#": 176,
+        "No": 176,
         "Digimon": "Digitamamon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -2637,10 +2812,11 @@
         "Atk": "128",
         "Def": "148",
         "Int": "111",
-        "Spd": "102"
+        "Spd": "102",
+        "Image": "http://digidb.io/images/dot/dot374.png"
     },
     {
-        "#": 177,
+        "No": 177,
         "Digimon": "SkullMeramon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -2652,10 +2828,11 @@
         "Atk": "183",
         "Def": "133",
         "Int": "70",
-        "Spd": "113"
+        "Spd": "113",
+        "Image": "http://digidb.io/images/dot/dot406.png"
     },
     {
-        "#": 178,
+        "No": 178,
         "Digimon": "Duramon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -2667,10 +2844,11 @@
         "Atk": "175",
         "Def": "146",
         "Int": "79",
-        "Spd": "119"
+        "Spd": "119",
+        "Image": "http://digidb.io/images/dot/dot699.png"
     },
     {
-        "#": 179,
+        "No": 179,
         "Digimon": "ShogunGekomon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -2682,10 +2860,11 @@
         "Atk": "113",
         "Def": "113",
         "Int": "99",
-        "Spd": "97"
+        "Spd": "97",
+        "Image": "http://digidb.io/images/dot/dot376.png"
     },
     {
-        "#": 180,
+        "No": 180,
         "Digimon": "Triceramon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -2697,10 +2876,11 @@
         "Atk": "148",
         "Def": "168",
         "Int": "94",
-        "Spd": "99"
+        "Spd": "99",
+        "Image": "http://digidb.io/images/dot/dot033.png"
     },
     {
-        "#": 181,
+        "No": 181,
         "Digimon": "DoruGreymon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -2712,10 +2892,11 @@
         "Atk": "161",
         "Def": "153",
         "Int": "84",
-        "Spd": "116"
+        "Spd": "116",
+        "Image": "http://digidb.io/images/dot/dot407.png"
     },
     {
-        "#": 182,
+        "No": 182,
         "Digimon": "Knightmon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -2727,10 +2908,11 @@
         "Atk": "135",
         "Def": "158",
         "Int": "123",
-        "Spd": "92"
+        "Spd": "92",
+        "Image": "http://digidb.io/images/dot/dot718.png"
     },
     {
-        "#": 183,
+        "No": 183,
         "Digimon": "Datamon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -2742,10 +2924,11 @@
         "Atk": "74",
         "Def": "114",
         "Int": "175",
-        "Spd": "102"
+        "Spd": "102",
+        "Image": "http://digidb.io/images/dot/dot576.png"
     },
     {
-        "#": 184,
+        "No": 184,
         "Digimon": "Paildramon",
         "Stage": "Ultimate",
         "Type": "Free",
@@ -2757,10 +2940,11 @@
         "Atk": "139",
         "Def": "124",
         "Int": "109",
-        "Spd": "128"
+        "Spd": "128",
+        "Image": "http://digidb.io/images/dot/dot408.png"
     },
     {
-        "#": 185,
+        "No": 185,
         "Digimon": "Panjyamon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -2772,10 +2956,11 @@
         "Atk": "124",
         "Def": "114",
         "Int": "111",
-        "Spd": "126"
+        "Spd": "126",
+        "Image": "http://digidb.io/images/dot/dot409.png"
     },
     {
-        "#": 186,
+        "No": 186,
         "Digimon": "Pandamon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -2787,10 +2972,11 @@
         "Atk": "135",
         "Def": "153",
         "Int": "118",
-        "Spd": "97"
+        "Spd": "97",
+        "Image": "http://digidb.io/images/dot/dot041.png"
     },
     {
-        "#": 187,
+        "No": 187,
         "Digimon": "Pumpkinmon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -2802,10 +2988,11 @@
         "Atk": "123",
         "Def": "108",
         "Int": "119",
-        "Spd": "111"
+        "Spd": "111",
+        "Image": "http://digidb.io/images/dot/dot596.png"
     },
     {
-        "#": 188,
+        "No": 188,
         "Digimon": "Piximon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -2817,10 +3004,11 @@
         "Atk": "104",
         "Def": "104",
         "Int": "134",
-        "Spd": "153"
+        "Spd": "153",
+        "Image": "http://digidb.io/images/dot/dot410.png"
     },
     {
-        "#": 189,
+        "No": 189,
         "Digimon": "HippoGryphonmon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -2832,10 +3020,11 @@
         "Atk": "107",
         "Def": "82",
         "Int": "143",
-        "Spd": "148"
+        "Spd": "148",
+        "Image": "http://digidb.io/images/dot/dot082.png"
     },
     {
-        "#": 190,
+        "No": 190,
         "Digimon": "Phantomon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -2847,10 +3036,11 @@
         "Atk": "99",
         "Def": "99",
         "Int": "163",
-        "Spd": "138"
+        "Spd": "138",
+        "Image": "http://digidb.io/images/dot/dot584.png"
     },
     {
-        "#": 191,
+        "No": 191,
         "Digimon": "BlackKingNumemon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -2862,10 +3052,11 @@
         "Atk": "89",
         "Def": "168",
         "Int": "89",
-        "Spd": "89"
+        "Spd": "89",
+        "Image": "http://digidb.io/images/dot/dot753.png"
     },
     {
-        "#": 192,
+        "No": 192,
         "Digimon": "BlueMeramon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -2877,10 +3068,11 @@
         "Atk": "148",
         "Def": "94",
         "Int": "133",
-        "Spd": "119"
+        "Spd": "119",
+        "Image": "http://digidb.io/images/dot/dot177.png"
     },
     {
-        "#": 193,
+        "No": 193,
         "Digimon": "Vademon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -2892,10 +3084,11 @@
         "Atk": "64",
         "Def": "94",
         "Int": "173",
-        "Spd": "97"
+        "Spd": "97",
+        "Image": "http://digidb.io/images/dot/dot411.png"
     },
     {
-        "#": 194,
+        "No": 194,
         "Digimon": "Whamon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -2907,10 +3100,11 @@
         "Atk": "123",
         "Def": "123",
         "Int": "124",
-        "Spd": "100"
+        "Spd": "100",
+        "Image": "http://digidb.io/images/dot/dot021.png"
     },
     {
-        "#": 195,
+        "No": 195,
         "Digimon": "MagnaAngemon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -2922,10 +3116,11 @@
         "Atk": "98",
         "Def": "119",
         "Int": "163",
-        "Spd": "105"
+        "Spd": "105",
+        "Image": "http://digidb.io/images/dot/dot101.png"
     },
     {
-        "#": 196,
+        "No": 196,
         "Digimon": "Volcanomon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -2937,10 +3132,11 @@
         "Atk": "158",
         "Def": "119",
         "Int": "69",
-        "Spd": "125"
+        "Spd": "125",
+        "Image": "http://digidb.io/images/dot/dot059.png"
     },
     {
-        "#": 197,
+        "No": 197,
         "Digimon": "Matadormon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -2952,10 +3148,11 @@
         "Atk": "148",
         "Def": "93",
         "Int": "104",
-        "Spd": "144"
+        "Spd": "144",
+        "Image": "http://digidb.io/images/dot/dot031.png"
     },
     {
-        "#": 198,
+        "No": 198,
         "Digimon": "MachGaogamon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -2967,10 +3164,11 @@
         "Atk": "158",
         "Def": "89",
         "Int": "89",
-        "Spd": "158"
+        "Spd": "158",
+        "Image": "http://digidb.io/images/dot/dot074.png"
     },
     {
-        "#": 199,
+        "No": 199,
         "Digimon": "Mamemon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -2982,10 +3180,11 @@
         "Atk": "111",
         "Def": "153",
         "Int": "84",
-        "Spd": "97"
+        "Spd": "97",
+        "Image": "http://digidb.io/images/dot/dot412.png"
     },
     {
-        "#": 200,
+        "No": 200,
         "Digimon": "MegaSeadramon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -2997,10 +3196,11 @@
         "Atk": "86",
         "Def": "114",
         "Int": "158",
-        "Spd": "102"
+        "Spd": "102",
+        "Image": "http://digidb.io/images/dot/dot132.png"
     },
     {
-        "#": 201,
+        "No": 201,
         "Digimon": "Megadramon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -3012,10 +3212,11 @@
         "Atk": "158",
         "Def": "148",
         "Int": "69",
-        "Spd": "119"
+        "Spd": "119",
+        "Image": "http://digidb.io/images/dot/dot301.png"
     },
     {
-        "#": 202,
+        "No": 202,
         "Digimon": "WarGrowlmon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -3027,10 +3228,11 @@
         "Atk": "178",
         "Def": "138",
         "Int": "87",
-        "Spd": "116"
+        "Spd": "116",
+        "Image": "http://digidb.io/images/dot/dot134.png"
     },
     {
-        "#": 203,
+        "No": 203,
         "Digimon": "MetalGreymon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -3042,10 +3244,11 @@
         "Atk": "168",
         "Def": "148",
         "Int": "80",
-        "Spd": "113"
+        "Spd": "113",
+        "Image": "http://digidb.io/images/dot/dot302.png"
     },
     {
-        "#": 204,
+        "No": 204,
         "Digimon": "MetalGreymon (Blue)",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -3057,10 +3260,11 @@
         "Atk": "173",
         "Def": "143",
         "Int": "69",
-        "Spd": "110"
+        "Spd": "110",
+        "Image": "http://digidb.io/images/dot/dot327.png"
     },
     {
-        "#": 205,
+        "No": 205,
         "Digimon": "MetalTyrannomon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -3072,10 +3276,11 @@
         "Atk": "130",
         "Def": "178",
         "Int": "118",
-        "Spd": "92"
+        "Spd": "92",
+        "Image": "http://digidb.io/images/dot/dot364.png"
     },
     {
-        "#": 206,
+        "No": 206,
         "Digimon": "MetalMamemon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -3087,10 +3292,11 @@
         "Atk": "123",
         "Def": "153",
         "Int": "128",
-        "Spd": "103"
+        "Spd": "103",
+        "Image": "http://digidb.io/images/dot/dot413.png"
     },
     {
-        "#": 207,
+        "No": 207,
         "Digimon": "Monzaemon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -3102,10 +3308,11 @@
         "Atk": "128",
         "Def": "118",
         "Int": "119",
-        "Spd": "100"
+        "Spd": "100",
+        "Image": "http://digidb.io/images/dot/dot061.png"
     },
     {
-        "#": 208,
+        "No": 208,
         "Digimon": "Crowmon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -3117,10 +3324,11 @@
         "Atk": "119",
         "Def": "104",
         "Int": "119",
-        "Spd": "173"
+        "Spd": "173",
+        "Image": "http://digidb.io/images/dot/dot721.png"
     },
     {
-        "#": 209,
+        "No": 209,
         "Digimon": "RizeGreymon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -3132,10 +3340,11 @@
         "Atk": "178",
         "Def": "109",
         "Int": "69",
-        "Spd": "143"
+        "Spd": "143",
+        "Image": "http://digidb.io/images/dot/dot071.png"
     },
     {
-        "#": 210,
+        "No": 210,
         "Digimon": "Lilamon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -3147,10 +3356,11 @@
         "Atk": "69",
         "Def": "104",
         "Int": "168",
-        "Spd": "114"
+        "Spd": "114",
+        "Image": "http://digidb.io/images/dot/dot073.png"
     },
     {
-        "#": 211,
+        "No": 211,
         "Digimon": "Rapidmon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -3162,10 +3372,11 @@
         "Atk": "114",
         "Def": "109",
         "Int": "119",
-        "Spd": "143"
+        "Spd": "143",
+        "Image": "http://digidb.io/images/dot/dot722.png"
     },
     {
-        "#": 212,
+        "No": 212,
         "Digimon": "Lillymon",
         "Stage": "Ultimate",
         "Type": "Data",
@@ -3177,10 +3388,11 @@
         "Atk": "74",
         "Def": "94",
         "Int": "163",
-        "Spd": "158"
+        "Spd": "158",
+        "Image": "http://digidb.io/images/dot/dot359.png"
     },
     {
-        "#": 213,
+        "No": 213,
         "Digimon": "Lucemon FM",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -3192,10 +3404,11 @@
         "Atk": "163",
         "Def": "114",
         "Int": "203",
-        "Spd": "139"
+        "Spd": "139",
+        "Image": "http://digidb.io/images/dot/dot039.png"
     },
     {
-        "#": 214,
+        "No": 214,
         "Digimon": "LadyDevimon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -3207,10 +3420,11 @@
         "Atk": "99",
         "Def": "94",
         "Int": "158",
-        "Spd": "143"
+        "Spd": "143",
+        "Image": "http://digidb.io/images/dot/dot107.png"
     },
     {
-        "#": 215,
+        "No": 215,
         "Digimon": "WereGarurumon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -3222,10 +3436,11 @@
         "Atk": "178",
         "Def": "89",
         "Int": "79",
-        "Spd": "153"
+        "Spd": "153",
+        "Image": "http://digidb.io/images/dot/dot140.png"
     },
     {
-        "#": 216,
+        "No": 216,
         "Digimon": "WereGarurumon (Blk)",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -3237,10 +3452,11 @@
         "Atk": "183",
         "Def": "104",
         "Int": "69",
-        "Spd": "148"
+        "Spd": "148",
+        "Image": "http://digidb.io/images/dot/dot715.png"
     },
     {
-        "#": 217,
+        "No": 217,
         "Digimon": "Wisemon",
         "Stage": "Ultimate",
         "Type": "Virus",
@@ -3252,10 +3468,11 @@
         "Atk": "69",
         "Def": "84",
         "Int": "198",
-        "Spd": "133"
+        "Spd": "133",
+        "Image": "http://digidb.io/images/dot/dot726.png"
     },
     {
-        "#": 218,
+        "No": 218,
         "Digimon": "Arcadiamon Mega",
         "Stage": "Mega",
         "Type": "Virus",
@@ -3267,10 +3484,11 @@
         "Atk": "196",
         "Def": "109",
         "Int": "119",
-        "Spd": "163"
+        "Spd": "163",
+        "Image": "http://digidb.io/images/dot/dot066.png"
     },
     {
-        "#": 219,
+        "No": 219,
         "Digimon": "Alphamon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -3282,10 +3500,11 @@
         "Atk": "158",
         "Def": "183",
         "Int": "158",
-        "Spd": "130"
+        "Spd": "130",
+        "Image": "http://digidb.io/images/dot/dot416.png"
     },
     {
-        "#": 220,
+        "No": 220,
         "Digimon": "UlforceVeedramon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -3297,10 +3516,11 @@
         "Atk": "188",
         "Def": "109",
         "Int": "104",
-        "Spd": "198"
+        "Spd": "198",
+        "Image": "http://digidb.io/images/dot/dot417.png"
     },
     {
-        "#": 221,
+        "No": 221,
         "Digimon": "Ebemon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -3312,10 +3532,11 @@
         "Atk": "74",
         "Def": "114",
         "Int": "198",
-        "Spd": "129"
+        "Spd": "129",
+        "Image": "http://digidb.io/images/dot/dot451.png"
     },
     {
-        "#": 222,
+        "No": 222,
         "Digimon": "Imperialdramon DM",
         "Stage": "Mega",
         "Type": "Free",
@@ -3327,10 +3548,11 @@
         "Atk": "139",
         "Def": "139",
         "Int": "139",
-        "Spd": "148"
+        "Spd": "148",
+        "Image": "http://digidb.io/images/dot/dot732.png"
     },
     {
-        "#": 223,
+        "No": 223,
         "Digimon": "Imperialdramon FM",
         "Stage": "Mega",
         "Type": "Free",
@@ -3342,10 +3564,11 @@
         "Atk": "198",
         "Def": "124",
         "Int": "114",
-        "Spd": "153"
+        "Spd": "153",
+        "Image": "http://digidb.io/images/dot/dot419.png"
     },
     {
-        "#": 224,
+        "No": 224,
         "Digimon": "Vikemon",
         "Stage": "Mega",
         "Type": "Free",
@@ -3357,10 +3580,11 @@
         "Atk": "158",
         "Def": "143",
         "Int": "129",
-        "Spd": "133"
+        "Spd": "133",
+        "Image": "http://digidb.io/images/dot/dot346.png"
     },
     {
-        "#": 225,
+        "No": 225,
         "Digimon": "Valkyrimon",
         "Stage": "Mega",
         "Type": "Free",
@@ -3372,10 +3596,11 @@
         "Atk": "148",
         "Def": "129",
         "Int": "129",
-        "Spd": "168"
+        "Spd": "168",
+        "Image": "http://digidb.io/images/dot/dot773.png"
     },
     {
-        "#": 226,
+        "No": 226,
         "Digimon": "Varodurumon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -3387,10 +3612,11 @@
         "Atk": "103",
         "Def": "94",
         "Int": "189",
-        "Spd": "173"
+        "Spd": "173",
+        "Image": "http://digidb.io/images/dot/dot117.png"
     },
     {
-        "#": 227,
+        "No": 227,
         "Digimon": "VenomMyotismon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -3402,10 +3628,11 @@
         "Atk": "193",
         "Def": "104",
         "Int": "148",
-        "Spd": "138"
+        "Spd": "138",
+        "Image": "http://digidb.io/images/dot/dot600.png"
     },
     {
-        "#": 228,
+        "No": 228,
         "Digimon": "WarGreymon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -3417,10 +3644,11 @@
         "Atk": "193",
         "Def": "163",
         "Int": "99",
-        "Spd": "140"
+        "Spd": "140",
+        "Image": "http://digidb.io/images/dot/dot027.png"
     },
     {
-        "#": 229,
+        "No": 229,
         "Digimon": "Ophanimon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -3432,10 +3660,11 @@
         "Atk": "104",
         "Def": "164",
         "Int": "193",
-        "Spd": "153"
+        "Spd": "153",
+        "Image": "http://digidb.io/images/dot/dot421.png"
     },
     {
-        "#": 230,
+        "No": 230,
         "Digimon": "Gaiomon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -3447,10 +3676,11 @@
         "Atk": "203",
         "Def": "129",
         "Int": "94",
-        "Spd": "158"
+        "Spd": "158",
+        "Image": "http://digidb.io/images/dot/dot744.png"
     },
     {
-        "#": 231,
+        "No": 231,
         "Digimon": "KaiserGreymon",
         "Stage": "Mega",
         "Type": "Free",
@@ -3462,10 +3692,11 @@
         "Atk": "206",
         "Def": "151",
         "Int": "123",
-        "Spd": "139"
+        "Spd": "139",
+        "Image": "http://digidb.io/images/dot/dot677.png"
     },
     {
-        "#": 232,
+        "No": 232,
         "Digimon": "ChaosGallantmon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -3477,10 +3708,11 @@
         "Atk": "178",
         "Def": "139",
         "Int": "163",
-        "Spd": "144"
+        "Spd": "144",
+        "Image": "http://digidb.io/images/dot/dot150.png"
     },
     {
-        "#": 233,
+        "No": 233,
         "Digimon": "Chaosdramon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -3492,10 +3724,11 @@
         "Atk": "203",
         "Def": "173",
         "Int": "109",
-        "Spd": "134"
+        "Spd": "134",
+        "Image": "http://digidb.io/images/dot/dot422.png"
     },
     {
-        "#": 234,
+        "No": 234,
         "Digimon": "Gankoomon",
         "Stage": "Mega",
         "Type": "Data",
@@ -3507,10 +3740,11 @@
         "Atk": "188",
         "Def": "163",
         "Int": "109",
-        "Spd": "138"
+        "Spd": "138",
+        "Image": "http://digidb.io/images/dot/dot688.png"
     },
     {
-        "#": 235,
+        "No": 235,
         "Digimon": "KingEtemon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -3522,10 +3756,11 @@
         "Atk": "164",
         "Def": "163",
         "Int": "131",
-        "Spd": "125"
+        "Spd": "125",
+        "Image": "http://digidb.io/images/dot/dot127.png"
     },
     {
-        "#": 236,
+        "No": 236,
         "Digimon": "Kuzuhamon",
         "Stage": "Mega",
         "Type": "Data",
@@ -3537,10 +3772,11 @@
         "Atk": "84",
         "Def": "129",
         "Int": "193",
-        "Spd": "139"
+        "Spd": "139",
+        "Image": "http://digidb.io/images/dot/dot754.png"
     },
     {
-        "#": 237,
+        "No": 237,
         "Digimon": "GranKuwagamon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -3552,10 +3788,11 @@
         "Atk": "178",
         "Def": "178",
         "Int": "89",
-        "Spd": "140"
+        "Spd": "140",
+        "Image": "http://digidb.io/images/dot/dot423.png"
     },
     {
-        "#": 238,
+        "No": 238,
         "Digimon": "GranDracmon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -3567,10 +3804,11 @@
         "Atk": "174",
         "Def": "114",
         "Int": "169",
-        "Spd": "151"
+        "Spd": "151",
+        "Image": "http://digidb.io/images/dot/dot032.png"
     },
     {
-        "#": 239,
+        "No": 239,
         "Digimon": "GroundLocomon",
         "Stage": "Mega",
         "Type": "Data",
@@ -3582,10 +3820,11 @@
         "Atk": "144",
         "Def": "213",
         "Int": "133",
-        "Spd": "128"
+        "Spd": "128",
+        "Image": "http://digidb.io/images/dot/dot704.png"
     },
     {
-        "#": 240,
+        "No": 240,
         "Digimon": "Gryphonmon",
         "Stage": "Mega",
         "Type": "Data",
@@ -3597,10 +3836,11 @@
         "Atk": "164",
         "Def": "104",
         "Int": "130",
-        "Spd": "173"
+        "Spd": "173",
+        "Image": "http://digidb.io/images/dot/dot083.png"
     },
     {
-        "#": 241,
+        "No": 241,
         "Digimon": "Craniamon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -3612,10 +3852,11 @@
         "Atk": "124",
         "Def": "208",
         "Int": "134",
-        "Spd": "124"
+        "Spd": "124",
+        "Image": "http://digidb.io/images/dot/dot734.png"
     },
     {
-        "#": 242,
+        "No": 242,
         "Digimon": "Kerpymon (Blk)",
         "Stage": "Mega",
         "Type": "Virus",
@@ -3627,10 +3868,11 @@
         "Atk": "94",
         "Def": "94",
         "Int": "223",
-        "Spd": "153"
+        "Spd": "153",
+        "Image": "http://digidb.io/images/dot/dot774.png"
     },
     {
-        "#": 243,
+        "No": 243,
         "Digimon": "Kerpymon (Good)",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -3642,10 +3884,11 @@
         "Atk": "94",
         "Def": "104",
         "Int": "208",
-        "Spd": "158"
+        "Spd": "158",
+        "Image": "http://digidb.io/images/dot/dot735.png"
     },
     {
-        "#": 244,
+        "No": 244,
         "Digimon": "Goldramon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -3657,10 +3900,11 @@
         "Atk": "193",
         "Def": "149",
         "Int": "134",
-        "Spd": "138"
+        "Spd": "138",
+        "Image": "http://digidb.io/images/dot/dot048.png"
     },
     {
-        "#": 245,
+        "No": 245,
         "Digimon": "SaberLeomon",
         "Stage": "Mega",
         "Type": "Data",
@@ -3672,10 +3916,11 @@
         "Atk": "228",
         "Def": "104",
         "Int": "84",
-        "Spd": "163"
+        "Spd": "163",
+        "Image": "http://digidb.io/images/dot/dot424.png"
     },
     {
-        "#": 246,
+        "No": 246,
         "Digimon": "Sakuyamon",
         "Stage": "Mega",
         "Type": "Data",
@@ -3687,10 +3932,11 @@
         "Atk": "94",
         "Def": "114",
         "Int": "188",
-        "Spd": "173"
+        "Spd": "173",
+        "Image": "http://digidb.io/images/dot/dot425.png"
     },
     {
-        "#": 247,
+        "No": 247,
         "Digimon": "Jesmon",
         "Stage": "Mega",
         "Type": "Data",
@@ -3702,10 +3948,11 @@
         "Atk": "198",
         "Def": "149",
         "Int": "114",
-        "Spd": "168"
+        "Spd": "168",
+        "Image": "http://digidb.io/images/dot/dot749.png"
     },
     {
-        "#": 248,
+        "No": 248,
         "Digimon": "ShineGreymon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -3717,10 +3964,11 @@
         "Atk": "203",
         "Def": "109",
         "Int": "84",
-        "Spd": "158"
+        "Spd": "158",
+        "Image": "http://digidb.io/images/dot/dot094.png"
     },
     {
-        "#": 249,
+        "No": 249,
         "Digimon": "ShineGreymon BM",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -3732,10 +3980,11 @@
         "Atk": "228",
         "Def": "104",
         "Int": "84",
-        "Spd": "168"
+        "Spd": "168",
+        "Image": "http://digidb.io/images/dot/dot776.png"
     },
     {
-        "#": 250,
+        "No": 250,
         "Digimon": "Justimon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -3747,10 +3996,11 @@
         "Atk": "193",
         "Def": "158",
         "Int": "99",
-        "Spd": "144"
+        "Spd": "144",
+        "Image": "http://digidb.io/images/dot/dot737.png"
     },
     {
-        "#": 251,
+        "No": 251,
         "Digimon": "Kentaurosmon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -3762,10 +4012,11 @@
         "Atk": "139",
         "Def": "154",
         "Int": "154",
-        "Spd": "183"
+        "Spd": "183",
+        "Image": "http://digidb.io/images/dot/dot086.png"
     },
     {
-        "#": 252,
+        "No": 252,
         "Digimon": "Slayerdramon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -3777,10 +4028,11 @@
         "Atk": "169",
         "Def": "129",
         "Int": "129",
-        "Spd": "153"
+        "Spd": "153",
+        "Image": "http://digidb.io/images/dot/dot213.png"
     },
     {
-        "#": 253,
+        "No": 253,
         "Digimon": "Seraphimon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -3792,10 +4044,11 @@
         "Atk": "94",
         "Def": "144",
         "Int": "198",
-        "Spd": "135"
+        "Spd": "135",
+        "Image": "http://digidb.io/images/dot/dot315.png"
     },
     {
-        "#": 254,
+        "No": 254,
         "Digimon": "MegaGargomon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -3807,10 +4060,11 @@
         "Atk": "149",
         "Def": "139",
         "Int": "119",
-        "Spd": "144"
+        "Spd": "144",
+        "Image": "http://digidb.io/images/dot/dot741.png"
     },
     {
-        "#": 255,
+        "No": 255,
         "Digimon": "Darkdramon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -3822,10 +4076,11 @@
         "Atk": "188",
         "Def": "148",
         "Int": "99",
-        "Spd": "139"
+        "Spd": "139",
+        "Image": "http://digidb.io/images/dot/dot771.png"
     },
     {
-        "#": 256,
+        "No": 256,
         "Digimon": "TigerVespamon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -3837,10 +4092,11 @@
         "Atk": "193",
         "Def": "114",
         "Int": "99",
-        "Spd": "173"
+        "Spd": "173",
+        "Image": "http://digidb.io/images/dot/dot745.png"
     },
     {
-        "#": 257,
+        "No": 257,
         "Digimon": "Titamon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -3852,10 +4108,11 @@
         "Atk": "183",
         "Def": "128",
         "Int": "114",
-        "Spd": "129"
+        "Spd": "129",
+        "Image": "http://digidb.io/images/dot/dot440.png"
     },
     {
-        "#": 258,
+        "No": 258,
         "Digimon": "TyrantKabuterimon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -3867,10 +4124,11 @@
         "Atk": "174",
         "Def": "164",
         "Int": "123",
-        "Spd": "159"
+        "Spd": "159",
+        "Image": "http://digidb.io/images/dot/dot128.png"
     },
     {
-        "#": 259,
+        "No": 259,
         "Digimon": "Dianamon",
         "Stage": "Mega",
         "Type": "Data",
@@ -3882,10 +4140,11 @@
         "Atk": "89",
         "Def": "154",
         "Int": "198",
-        "Spd": "183"
+        "Spd": "183",
+        "Image": "http://digidb.io/images/dot/dot733.png"
     },
     {
-        "#": 260,
+        "No": 260,
         "Digimon": "Diaboromon",
         "Stage": "Mega",
         "Type": "Free",
@@ -3897,10 +4156,11 @@
         "Atk": "243",
         "Def": "104",
         "Int": "79",
-        "Spd": "173"
+        "Spd": "173",
+        "Image": "http://digidb.io/images/dot/dot632.png"
     },
     {
-        "#": 261,
+        "No": 261,
         "Digimon": "Creepymon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -3912,10 +4172,11 @@
         "Atk": "183",
         "Def": "114",
         "Int": "183",
-        "Spd": "140"
+        "Spd": "140",
+        "Image": "http://digidb.io/images/dot/dot038.png"
     },
     {
-        "#": 262,
+        "No": 262,
         "Digimon": "Gallantmon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -3927,10 +4188,11 @@
         "Atk": "149",
         "Def": "154",
         "Int": "149",
-        "Spd": "148"
+        "Spd": "148",
+        "Image": "http://digidb.io/images/dot/dot126.png"
     },
     {
-        "#": 263,
+        "No": 263,
         "Digimon": "Dynasmon",
         "Stage": "Mega",
         "Type": "Data",
@@ -3942,10 +4204,11 @@
         "Atk": "213",
         "Def": "129",
         "Int": "94",
-        "Spd": "178"
+        "Spd": "178",
+        "Image": "http://digidb.io/images/dot/dot738.png"
     },
     {
-        "#": 264,
+        "No": 264,
         "Digimon": "Durandamon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -3957,10 +4220,11 @@
         "Atk": "193",
         "Def": "175",
         "Int": "95",
-        "Spd": "135"
+        "Spd": "135",
+        "Image": "http://digidb.io/images/dot/dot700.png"
     },
     {
-        "#": 265,
+        "No": 265,
         "Digimon": "Leopardmon",
         "Stage": "Mega",
         "Type": "Data",
@@ -3972,10 +4236,11 @@
         "Atk": "124",
         "Def": "114",
         "Int": "183",
-        "Spd": "188"
+        "Spd": "188",
+        "Image": "http://digidb.io/images/dot/dot739.png"
     },
     {
-        "#": 266,
+        "No": 266,
         "Digimon": "Leopardmon LM",
         "Stage": "Mega",
         "Type": "Data",
@@ -3987,10 +4252,11 @@
         "Atk": "159",
         "Def": "129",
         "Int": "139",
-        "Spd": "218"
+        "Spd": "218",
+        "Image": "http://digidb.io/images/dot/dot743.png"
     },
     {
-        "#": 267,
+        "No": 267,
         "Digimon": "Dorugoramon",
         "Stage": "Mega",
         "Type": "Data",
@@ -4002,10 +4268,11 @@
         "Atk": "225",
         "Def": "134",
         "Int": "88",
-        "Spd": "145"
+        "Spd": "145",
+        "Image": "http://digidb.io/images/dot/dot019.png"
     },
     {
-        "#": 268,
+        "No": 268,
         "Digimon": "Neptunemon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -4017,10 +4284,11 @@
         "Atk": "158",
         "Def": "130",
         "Int": "173",
-        "Spd": "139"
+        "Spd": "139",
+        "Image": "http://digidb.io/images/dot/dot075.png"
     },
     {
-        "#": 269,
+        "No": 269,
         "Digimon": "HiAndromon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -4032,10 +4300,11 @@
         "Atk": "153",
         "Def": "178",
         "Int": "138",
-        "Spd": "124"
+        "Spd": "124",
+        "Image": "http://digidb.io/images/dot/dot426.png"
     },
     {
-        "#": 270,
+        "No": 270,
         "Digimon": "PileVolcamon",
         "Stage": "Mega",
         "Type": "Data",
@@ -4047,10 +4316,11 @@
         "Atk": "173",
         "Def": "163",
         "Int": "111",
-        "Spd": "137"
+        "Spd": "137",
+        "Image": "http://digidb.io/images/dot/dot060.png"
     },
     {
-        "#": 271,
+        "No": 271,
         "Digimon": "Barbamon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -4062,10 +4332,11 @@
         "Atk": "84",
         "Def": "129",
         "Int": "233",
-        "Spd": "133"
+        "Spd": "133",
+        "Image": "http://digidb.io/images/dot/dot036.png"
     },
     {
-        "#": 272,
+        "No": 272,
         "Digimon": "BanchoLeomon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -4077,10 +4348,11 @@
         "Atk": "193",
         "Def": "188",
         "Int": "80",
-        "Spd": "138"
+        "Spd": "138",
+        "Image": "http://digidb.io/images/dot/dot049.png"
     },
     {
-        "#": 273,
+        "No": 273,
         "Digimon": "Piedmon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -4092,10 +4364,11 @@
         "Atk": "129",
         "Def": "104",
         "Int": "183",
-        "Spd": "163"
+        "Spd": "163",
+        "Image": "http://digidb.io/images/dot/dot427.png"
     },
     {
-        "#": 274,
+        "No": 274,
         "Digimon": "Puppetmon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -4107,10 +4380,11 @@
         "Atk": "163",
         "Def": "163",
         "Int": "148",
-        "Spd": "124"
+        "Spd": "124",
+        "Image": "http://digidb.io/images/dot/dot428.png"
     },
     {
-        "#": 275,
+        "No": 275,
         "Digimon": "PlatinumNumemon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -4122,10 +4396,11 @@
         "Atk": "99",
         "Def": "999",
         "Int": "50",
-        "Spd": "144"
+        "Spd": "144",
+        "Image": "http://digidb.io/images/dot/dot069.png"
     },
     {
-        "#": 276,
+        "No": 276,
         "Digimon": "BlackWarGreymon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -4137,10 +4412,11 @@
         "Atk": "183",
         "Def": "178",
         "Int": "89",
-        "Spd": "140"
+        "Spd": "140",
+        "Image": "http://digidb.io/images/dot/dot175.png"
     },
     {
-        "#": 277,
+        "No": 277,
         "Digimon": "PrinceMamemon",
         "Stage": "Mega",
         "Type": "Data",
@@ -4152,10 +4428,11 @@
         "Atk": "104",
         "Def": "173",
         "Int": "109",
-        "Spd": "130"
+        "Spd": "130",
+        "Image": "http://digidb.io/images/dot/dot429.png"
     },
     {
-        "#": 278,
+        "No": 278,
         "Digimon": "Breakdramon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -4167,10 +4444,11 @@
         "Atk": "213",
         "Def": "168",
         "Int": "94",
-        "Spd": "129"
+        "Spd": "129",
+        "Image": "http://digidb.io/images/dot/dot214.png"
     },
     {
-        "#": 279,
+        "No": 279,
         "Digimon": "Plesiomon",
         "Stage": "Mega",
         "Type": "Data",
@@ -4182,10 +4460,11 @@
         "Atk": "74",
         "Def": "114",
         "Int": "188",
-        "Spd": "129"
+        "Spd": "129",
+        "Image": "http://digidb.io/images/dot/dot450.png"
     },
     {
-        "#": 280,
+        "No": 280,
         "Digimon": "HerculesKabuterimon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -4197,10 +4476,11 @@
         "Atk": "114",
         "Def": "168",
         "Int": "124",
-        "Spd": "124"
+        "Spd": "124",
+        "Image": "http://digidb.io/images/dot/dot306.png"
     },
     {
-        "#": 281,
+        "No": 281,
         "Digimon": "Beelzemon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -4212,10 +4492,11 @@
         "Atk": "228",
         "Def": "119",
         "Int": "99",
-        "Spd": "168"
+        "Spd": "168",
+        "Image": "http://digidb.io/images/dot/dot035.png"
     },
     {
-        "#": 282,
+        "No": 282,
         "Digimon": "Beelzemon BM",
         "Stage": "Mega",
         "Type": "Virus",
@@ -4227,10 +4508,11 @@
         "Atk": "238",
         "Def": "124",
         "Int": "104",
-        "Spd": "178"
+        "Spd": "178",
+        "Image": "http://digidb.io/images/dot/dot775.png"
     },
     {
-        "#": 283,
+        "No": 283,
         "Digimon": "Belphemon SM",
         "Stage": "Mega",
         "Type": "Virus",
@@ -4242,10 +4524,11 @@
         "Atk": "89",
         "Def": "114",
         "Int": "203",
-        "Spd": "139"
+        "Spd": "139",
+        "Image": "http://digidb.io/images/dot/dot439.png"
     },
     {
-        "#": 284,
+        "No": 284,
         "Digimon": "Hououmon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -4257,10 +4540,11 @@
         "Atk": "84",
         "Def": "99",
         "Int": "193",
-        "Spd": "158"
+        "Spd": "158",
+        "Image": "http://digidb.io/images/dot/dot310.png"
     },
     {
-        "#": 285,
+        "No": 285,
         "Digimon": "Magnadramon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -4272,10 +4556,11 @@
         "Atk": "89",
         "Def": "124",
         "Int": "183",
-        "Spd": "129"
+        "Spd": "129",
+        "Image": "http://digidb.io/images/dot/dot453.png"
     },
     {
-        "#": 286,
+        "No": 286,
         "Digimon": "Boltmon",
         "Stage": "Mega",
         "Type": "Data",
@@ -4287,10 +4572,11 @@
         "Atk": "198",
         "Def": "163",
         "Int": "84",
-        "Spd": "140"
+        "Spd": "140",
+        "Image": "http://digidb.io/images/dot/dot431.png"
     },
     {
-        "#": 287,
+        "No": 287,
         "Digimon": "MagnaGarurumon",
         "Stage": "Mega",
         "Type": "Free",
@@ -4302,10 +4588,11 @@
         "Atk": "175",
         "Def": "104",
         "Int": "114",
-        "Spd": "183"
+        "Spd": "183",
+        "Image": "http://digidb.io/images/dot/dot678.png"
     },
     {
-        "#": 288,
+        "No": 288,
         "Digimon": "MagnaGarurumon (SV)",
         "Stage": "Mega",
         "Type": "Free",
@@ -4317,10 +4604,11 @@
         "Atk": "163",
         "Def": "107",
         "Int": "119",
-        "Spd": "218"
+        "Spd": "218",
+        "Image": "http://digidb.io/images/dot/dot675.png"
     },
     {
-        "#": 289,
+        "No": 289,
         "Digimon": "Mastemon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -4332,10 +4620,11 @@
         "Atk": "173",
         "Def": "134",
         "Int": "173",
-        "Spd": "149"
+        "Spd": "149",
+        "Image": "http://digidb.io/images/dot/dot748.png"
     },
     {
-        "#": 290,
+        "No": 290,
         "Digimon": "MarineAngemon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -4347,10 +4636,11 @@
         "Atk": "64",
         "Def": "89",
         "Int": "203",
-        "Spd": "153"
+        "Spd": "153",
+        "Image": "http://digidb.io/images/dot/dot024.png"
     },
     {
-        "#": 291,
+        "No": 291,
         "Digimon": "Minervamon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -4362,10 +4652,11 @@
         "Atk": "208",
         "Def": "114",
         "Int": "119",
-        "Spd": "168"
+        "Spd": "168",
+        "Image": "http://digidb.io/images/dot/dot747.png"
     },
     {
-        "#": 292,
+        "No": 292,
         "Digimon": "MirageGaogamon",
         "Stage": "Mega",
         "Type": "Data",
@@ -4377,10 +4668,11 @@
         "Atk": "183",
         "Def": "114",
         "Int": "109",
-        "Spd": "178"
+        "Spd": "178",
+        "Image": "http://digidb.io/images/dot/dot095.png"
     },
     {
-        "#": 293,
+        "No": 293,
         "Digimon": "MirageGaogamon BM",
         "Stage": "Mega",
         "Type": "Data",
@@ -4392,10 +4684,11 @@
         "Atk": "178",
         "Def": "104",
         "Int": "158",
-        "Spd": "174"
+        "Spd": "174",
+        "Image": "http://digidb.io/images/dot/dot777.png"
     },
     {
-        "#": 294,
+        "No": 294,
         "Digimon": "Machinedramon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -4407,10 +4700,11 @@
         "Atk": "173",
         "Def": "183",
         "Int": "128",
-        "Spd": "124"
+        "Spd": "124",
+        "Image": "http://digidb.io/images/dot/dot385.png"
     },
     {
-        "#": 295,
+        "No": 295,
         "Digimon": "Megidramon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -4422,10 +4716,11 @@
         "Atk": "199",
         "Def": "132",
         "Int": "109",
-        "Spd": "153"
+        "Spd": "153",
+        "Image": "http://digidb.io/images/dot/dot047.png"
     },
     {
-        "#": 296,
+        "No": 296,
         "Digimon": "MetalEtemon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -4437,10 +4732,11 @@
         "Atk": "134",
         "Def": "188",
         "Int": "89",
-        "Spd": "124"
+        "Spd": "124",
+        "Image": "http://digidb.io/images/dot/dot312.png"
     },
     {
-        "#": 297,
+        "No": 297,
         "Digimon": "MetalGarurumon",
         "Stage": "Mega",
         "Type": "Data",
@@ -4452,10 +4748,11 @@
         "Atk": "154",
         "Def": "129",
         "Int": "129",
-        "Spd": "178"
+        "Spd": "178",
+        "Image": "http://digidb.io/images/dot/dot135.png"
     },
     {
-        "#": 298,
+        "No": 298,
         "Digimon": "MetalGarurumon (Blk)",
         "Stage": "Mega",
         "Type": "Virus",
@@ -4467,10 +4764,11 @@
         "Atk": "163",
         "Def": "173",
         "Int": "133",
-        "Spd": "130"
+        "Spd": "130",
+        "Image": "http://digidb.io/images/dot/dot182.png"
     },
     {
-        "#": 299,
+        "No": 299,
         "Digimon": "MetalSeadramon",
         "Stage": "Mega",
         "Type": "Data",
@@ -4482,10 +4780,11 @@
         "Atk": "99",
         "Def": "139",
         "Int": "168",
-        "Spd": "129"
+        "Spd": "129",
+        "Image": "http://digidb.io/images/dot/dot434.png"
     },
     {
-        "#": 300,
+        "No": 300,
         "Digimon": "Merukimon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -4497,10 +4796,11 @@
         "Atk": "178",
         "Def": "138",
         "Int": "141",
-        "Spd": "177"
+        "Spd": "177",
+        "Image": "http://digidb.io/images/dot/dot080.png"
     },
     {
-        "#": 301,
+        "No": 301,
         "Digimon": "RustTyranomon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -4512,10 +4812,11 @@
         "Atk": "218",
         "Def": "163",
         "Int": "74",
-        "Spd": "140"
+        "Spd": "140",
+        "Image": "http://digidb.io/images/dot/dot383.png"
     },
     {
-        "#": 302,
+        "No": 302,
         "Digimon": "Leviamon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -4527,10 +4828,11 @@
         "Atk": "168",
         "Def": "158",
         "Int": "144",
-        "Spd": "133"
+        "Spd": "133",
+        "Image": "http://digidb.io/images/dot/dot037.png"
     },
     {
-        "#": 303,
+        "No": 303,
         "Digimon": "Lilithmon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -4542,10 +4844,11 @@
         "Atk": "99",
         "Def": "104",
         "Int": "223",
-        "Spd": "173"
+        "Spd": "173",
+        "Image": "http://digidb.io/images/dot/dot034.png"
     },
     {
-        "#": 304,
+        "No": 304,
         "Digimon": "Ravemon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -4557,10 +4860,11 @@
         "Atk": "139",
         "Def": "119",
         "Int": "139",
-        "Spd": "203"
+        "Spd": "203",
+        "Image": "http://digidb.io/images/dot/dot740.png"
     },
     {
-        "#": 305,
+        "No": 305,
         "Digimon": "Ravemon BM",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -4572,10 +4876,11 @@
         "Atk": "149",
         "Def": "139",
         "Int": "144",
-        "Spd": "213"
+        "Spd": "213",
+        "Image": "http://digidb.io/images/dot/dot778.png"
     },
     {
-        "#": 306,
+        "No": 306,
         "Digimon": "Crusadermon",
         "Stage": "Mega",
         "Type": "Virus",
@@ -4587,10 +4892,11 @@
         "Atk": "144",
         "Def": "139",
         "Int": "144",
-        "Spd": "193"
+        "Spd": "193",
+        "Image": "http://digidb.io/images/dot/dot703.png"
     },
     {
-        "#": 307,
+        "No": 307,
         "Digimon": "Rosemon",
         "Stage": "Mega",
         "Type": "Data",
@@ -4602,10 +4908,11 @@
         "Atk": "144",
         "Def": "129",
         "Int": "149",
-        "Spd": "144"
+        "Spd": "144",
+        "Image": "http://digidb.io/images/dot/dot057.png"
     },
     {
-        "#": 308,
+        "No": 308,
         "Digimon": "Rosemon BM",
         "Stage": "Mega",
         "Type": "Data",
@@ -4617,10 +4924,11 @@
         "Atk": "149",
         "Def": "139",
         "Int": "159",
-        "Spd": "143"
+        "Spd": "143",
+        "Image": "http://digidb.io/images/dot/dot779.png"
     },
     {
-        "#": 309,
+        "No": 309,
         "Digimon": "Lotosmon",
         "Stage": "Mega",
         "Type": "Data",
@@ -4632,10 +4940,11 @@
         "Atk": "74",
         "Def": "109",
         "Int": "213",
-        "Spd": "168"
+        "Spd": "168",
+        "Image": "http://digidb.io/images/dot/dot742.png"
     },
     {
-        "#": 310,
+        "No": 310,
         "Digimon": "Armageddemon",
         "Stage": "Ultra",
         "Type": "Free",
@@ -4647,10 +4956,11 @@
         "Atk": "255",
         "Def": "133",
         "Int": "84",
-        "Spd": "164"
+        "Spd": "164",
+        "Image": "http://digidb.io/images/dot/dot106.png"
     },
     {
-        "#": 311,
+        "No": 311,
         "Digimon": "Arcadiamon Ultra",
         "Stage": "Ultra",
         "Type": "Virus",
@@ -4662,10 +4972,11 @@
         "Atk": "204",
         "Def": "109",
         "Int": "134",
-        "Spd": "170"
+        "Spd": "170",
+        "Image": "http://digidb.io/images/dot/dot067.png"
     },
     {
-        "#": 312,
+        "No": 312,
         "Digimon": "Alphamon Ouryuken",
         "Stage": "Ultra",
         "Type": "Vaccine",
@@ -4677,10 +4988,11 @@
         "Atk": "179",
         "Def": "149",
         "Int": "159",
-        "Spd": "153"
+        "Spd": "153",
+        "Image": "http://digidb.io/images/dot/dot766.png"
     },
     {
-        "#": 313,
+        "No": 313,
         "Digimon": "Imperialdramon PM",
         "Stage": "Ultra",
         "Type": "Vaccine",
@@ -4692,10 +5004,11 @@
         "Atk": "154",
         "Def": "154",
         "Int": "154",
-        "Spd": "153"
+        "Spd": "153",
+        "Image": "http://digidb.io/images/dot/dot420.png"
     },
     {
-        "#": 314,
+        "No": 314,
         "Digimon": "Examon",
         "Stage": "Ultra",
         "Type": "Data",
@@ -4707,10 +5020,11 @@
         "Atk": "179",
         "Def": "139",
         "Int": "134",
-        "Spd": "153"
+        "Spd": "153",
+        "Image": "http://digidb.io/images/dot/dot215.png"
     },
     {
-        "#": 315,
+        "No": 315,
         "Digimon": "Omnimon",
         "Stage": "Ultra",
         "Type": "Vaccine",
@@ -4722,10 +5036,11 @@
         "Atk": "208",
         "Def": "168",
         "Int": "134",
-        "Spd": "144"
+        "Spd": "144",
+        "Image": "http://digidb.io/images/dot/dot088.png"
     },
     {
-        "#": 316,
+        "No": 316,
         "Digimon": "Omnimon Zwart",
         "Stage": "Ultra",
         "Type": "Vaccine",
@@ -4737,10 +5052,11 @@
         "Atk": "153",
         "Def": "193",
         "Int": "158",
-        "Spd": "134"
+        "Spd": "134",
+        "Image": "http://digidb.io/images/dot/dot757.png"
     },
     {
-        "#": 317,
+        "No": 317,
         "Digimon": "Chaosmon",
         "Stage": "Ultra",
         "Type": "Vaccine",
@@ -4752,10 +5068,11 @@
         "Atk": "318",
         "Def": "94",
         "Int": "89",
-        "Spd": "188"
+        "Spd": "188",
+        "Image": "http://digidb.io/images/dot/dot772.png"
     },
     {
-        "#": 318,
+        "No": 318,
         "Digimon": "Chaosmon VA",
         "Stage": "Ultra",
         "Type": "Vaccine",
@@ -4767,10 +5084,11 @@
         "Atk": "254",
         "Def": "84",
         "Int": "204",
-        "Spd": "168"
+        "Spd": "168",
+        "Image": "http://digidb.io/images/dot/dot118.png"
     },
     {
-        "#": 319,
+        "No": 319,
         "Digimon": "Susanomon",
         "Stage": "Ultra",
         "Type": "Vaccine",
@@ -4782,10 +5100,11 @@
         "Atk": "183",
         "Def": "158",
         "Int": "149",
-        "Spd": "149"
+        "Spd": "149",
+        "Image": "http://digidb.io/images/dot/dot104.png"
     },
     {
-        "#": 320,
+        "No": 320,
         "Digimon": "Gallantmon CM",
         "Stage": "Ultra",
         "Type": "Virus",
@@ -4797,10 +5116,11 @@
         "Atk": "203",
         "Def": "124",
         "Int": "139",
-        "Spd": "173"
+        "Spd": "173",
+        "Image": "http://digidb.io/images/dot/dot105.png"
     },
     {
-        "#": 321,
+        "No": 321,
         "Digimon": "Belphemon RM",
         "Stage": "Ultra",
         "Type": "Virus",
@@ -4812,10 +5132,11 @@
         "Atk": "247",
         "Def": "168",
         "Int": "109",
-        "Spd": "140"
+        "Spd": "140",
+        "Image": "http://digidb.io/images/dot/dot040.png"
     },
     {
-        "#": 322,
+        "No": 322,
         "Digimon": "Lucemon SM",
         "Stage": "Ultra",
         "Type": "Virus",
@@ -4827,10 +5148,11 @@
         "Atk": "89",
         "Def": "124",
         "Int": "233",
-        "Spd": "158"
+        "Spd": "158",
+        "Image": "http://digidb.io/images/dot/dot435.png"
     },
     {
-        "#": 323,
+        "No": 323,
         "Digimon": "Flamedramon",
         "Stage": "Armor",
         "Type": "Free",
@@ -4842,10 +5164,11 @@
         "Atk": "119",
         "Def": "99",
         "Int": "89",
-        "Spd": "138"
+        "Spd": "138",
+        "Image": "http://digidb.io/images/dot/dot716.png"
     },
     {
-        "#": 324,
+        "No": 324,
         "Digimon": "Magnamon",
         "Stage": "Armor",
         "Type": "Free",
@@ -4857,10 +5180,11 @@
         "Atk": "168",
         "Def": "208",
         "Int": "148",
-        "Spd": "124"
+        "Spd": "124",
+        "Image": "http://digidb.io/images/dot/dot382.png"
     },
     {
-        "#": 325,
+        "No": 325,
         "Digimon": "Rapidmon (Armor)",
         "Stage": "Armor",
         "Type": "Vaccine",
@@ -4872,10 +5196,11 @@
         "Atk": "158",
         "Def": "178",
         "Int": "158",
-        "Spd": "124"
+        "Spd": "124",
+        "Image": "http://digidb.io/images/dot/dot751.png"
     },
     {
-        "#": 326,
+        "No": 326,
         "Digimon": "Shoutmon",
         "Stage": "None",
         "Type": "Free",
@@ -4887,10 +5212,11 @@
         "Atk": "128",
         "Def": "101",
         "Int": "55",
-        "Spd": "87"
+        "Spd": "87",
+        "Image": "http://digidb.io/images/dot/dot682.png"
     },
     {
-        "#": 327,
+        "No": 327,
         "Digimon": "OmniShoutmon",
         "Stage": "None",
         "Type": "Free",
@@ -4902,10 +5228,11 @@
         "Atk": "166",
         "Def": "144",
         "Int": "114",
-        "Spd": "165"
+        "Spd": "165",
+        "Image": "http://digidb.io/images/dot/dot683.png"
     },
     {
-        "#": 328,
+        "No": 328,
         "Digimon": "Ryudamon",
         "Stage": "Rookie",
         "Type": "Vaccine",
@@ -4917,10 +5244,11 @@
         "Atk": "123",
         "Def": "97",
         "Int": "57",
-        "Spd": "102"
+        "Spd": "102",
+        "Image": "http://digidb.io/images/dot/dot190.png"
     },
     {
-        "#": 329,
+        "No": 329,
         "Digimon": "Ginryumon",
         "Stage": "Champion",
         "Type": "Vaccine",
@@ -4932,10 +5260,11 @@
         "Atk": "135",
         "Def": "114",
         "Int": "71",
-        "Spd": "118"
+        "Spd": "118",
+        "Image": "http://digidb.io/images/dot/dot191.png"
     },
     {
-        "#": 330,
+        "No": 330,
         "Digimon": "Hisyaryumon",
         "Stage": "Ultimate",
         "Type": "Vaccine",
@@ -4947,10 +5276,11 @@
         "Atk": "183",
         "Def": "157",
         "Int": "74",
-        "Spd": "123"
+        "Spd": "123",
+        "Image": "http://digidb.io/images/dot/dot192.png"
     },
     {
-        "#": 331,
+        "No": 331,
         "Digimon": "Ouryumon",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -4962,10 +5292,11 @@
         "Atk": "221",
         "Def": "179",
         "Int": "84",
-        "Spd": "158"
+        "Spd": "158",
+        "Image": "http://digidb.io/images/dot/dot193.png"
     },
     {
-        "#": 332,
+        "No": 332,
         "Digimon": "Apocalymon",
         "Stage": "Ultra",
         "Type": "Free",
@@ -4977,10 +5308,11 @@
         "Atk": "89",
         "Def": "104",
         "Int": "183",
-        "Spd": "188"
+        "Spd": "188",
+        "Image": "http://digidb.io/images/dot/dot328.png"
     },
     {
-        "#": 333,
+        "No": 333,
         "Digimon": "Sistermon Blanc",
         "Stage": "Rookie",
         "Type": "Vaccine",
@@ -4992,10 +5324,11 @@
         "Atk": "53",
         "Def": "72",
         "Int": "116",
-        "Spd": "82"
+        "Spd": "82",
+        "Image": "http://digidb.io/images/dot/dot781.png"
     },
     {
-        "#": 334,
+        "No": 334,
         "Digimon": "Sistermon B (Awake.)",
         "Stage": "Rookie",
         "Type": "Vaccine",
@@ -5007,10 +5340,11 @@
         "Atk": "72",
         "Def": "112",
         "Int": "191",
-        "Spd": "165"
+        "Spd": "165",
+        "Image": "http://digidb.io/images/dot/dot782.png"
     },
     {
-        "#": 335,
+        "No": 335,
         "Digimon": "Sistermon Ciel",
         "Stage": "Champion",
         "Type": "Virus",
@@ -5022,10 +5356,11 @@
         "Atk": "96",
         "Def": "87",
         "Int": "95",
-        "Spd": "139"
+        "Spd": "139",
+        "Image": "http://digidb.io/images/dot/dot783.png"
     },
     {
-        "#": 336,
+        "No": 336,
         "Digimon": "Sistermon C (Awake.)",
         "Stage": "Champion",
         "Type": "Virus",
@@ -5037,10 +5372,11 @@
         "Atk": "188",
         "Def": "102",
         "Int": "114",
-        "Spd": "173"
+        "Spd": "173",
+        "Image": "http://digidb.io/images/dot/dot784.png"
     },
     {
-        "#": 337,
+        "No": 337,
         "Digimon": "Alphamon NX",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -5052,10 +5388,11 @@
         "Atk": "109",
         "Def": "114",
         "Int": "109",
-        "Spd": "116"
+        "Spd": "116",
+        "Image": "http://digidb.io/images/dot/dot901.png"
     },
     {
-        "#": 338,
+        "No": 338,
         "Digimon": "Crusadermon NX",
         "Stage": "Mega",
         "Type": "Virus",
@@ -5067,10 +5404,11 @@
         "Atk": "118",
         "Def": "99",
         "Int": "109",
-        "Spd": "121"
+        "Spd": "121",
+        "Image": "http://digidb.io/images/dot/dot902.png"
     },
     {
-        "#": 339,
+        "No": 339,
         "Digimon": "Leopardmon NX",
         "Stage": "Mega",
         "Type": "Data",
@@ -5082,10 +5420,11 @@
         "Atk": "112",
         "Def": "91",
         "Int": "116",
-        "Spd": "126"
+        "Spd": "126",
+        "Image": "http://digidb.io/images/dot/dot903.png"
     },
     {
-        "#": 340,
+        "No": 340,
         "Digimon": "Omnimon NX",
         "Stage": "Mega",
         "Type": "Vaccine",
@@ -5097,10 +5436,11 @@
         "Atk": "116",
         "Def": "111",
         "Int": "111",
-        "Spd": "113"
+        "Spd": "113",
+        "Image": "http://digidb.io/images/dot/dot904.png"
     },
     {
-        "#": 341,
+        "No": 341,
         "Digimon": "Gallantmon NX",
         "Stage": "Mega",
         "Type": "Virus",
@@ -5112,6 +5452,7 @@
         "Atk": "122",
         "Def": "109",
         "Int": "111",
-        "Spd": "108"
+        "Spd": "108",
+        "Image": "http://digidb.io/images/dot/dot905.png"
     }
 ]
